@@ -1,0 +1,9 @@
+cd D:\AA-Sites
+hugo new site anthology4tech
+cd anthology4tech
+git init
+git remote add origin https://github.com/gr8Kiwi469/anthology4tech.git
+git add .
+git commit -m "Initial Hugo site"
+git branch -M main
+git push -u origin main
