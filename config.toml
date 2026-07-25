@@ -1,4 +1,29 @@
 theme = "PaperMod"
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Anthology4Tech'
+subtitle = "Technical insights, tools, and workflows"
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Topics"
+    url = "/topics/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+	
+[params.social]
+  github = "gr8Kiwi469"
+  linkedin = "your-profile" #
+  email = "your@email.com"
+  
+ [params]
+  defaultTheme = "auto" # or "dark" or "light"
+  
