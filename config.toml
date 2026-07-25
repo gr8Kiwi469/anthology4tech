@@ -1,9 +1,57 @@
-theme = "PaperMod"
-baseURL = 'https://anthology4tech.com/'
-locale = 'en-us'
-title = 'Anthology4Tech'
+# ---------------------------------------------------------
+# Anthology4Tech — Hugo + PaperMod Configuration
+# ---------------------------------------------------------
+
+baseURL = "https://anthology4tech.com/"
+title = "Anthology4Tech"
 subtitle = "Technical insights, tools, and workflows"
+theme = "PaperMod"
+languageCode = "en-us"
+paginate = 10
+
+# Enable nice URLs
+canonifyURLs = true
+
+# ---------------------------------------------------------
+# PaperMod Core Parameters
+# ---------------------------------------------------------
+[params]
+  defaultTheme = "auto"        # auto | dark | light
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButton = true
+  ShowToc = true               # Table of contents on posts
+  TocOpen = false              # TOC collapsed by default
+
+  # Homepage mode (choose one)
+  homeInfoParams = { 
+    Title = "Welcome to Anthology4Tech",
+    Content = "A curated collection of technical insights, workflows, and tools."
+  }
+
+  # Author block (optional)
+  [params.author]
+    name = "Keith"
+    email = "your@email.com"
+
+# ---------------------------------------------------------
+# Social Icons
+# ---------------------------------------------------------
+[params.social]
+  github = "gr8Kiwi469"
+  linkedin = "your-profile"
+  email = "your@email.com"
+
+# ---------------------------------------------------------
+# Menu Configuration
+# ---------------------------------------------------------
 [menu]
+
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
@@ -18,11 +66,28 @@ subtitle = "Technical insights, tools, and workflows"
     name = "About"
     url = "/about/"
     weight = 3
-	
-[params.social]
-  github = "gr8Kiwi469"
-  linkedin = "your-profile" #
-  email = "your@email.com"
-  
- [params]
-  defaultTheme = "auto" # or "dark" or "light"
+
+# ---------------------------------------------------------
+# Taxonomies
+# ---------------------------------------------------------
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# ---------------------------------------------------------
+# Markdown Rendering
+# ---------------------------------------------------------
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# ---------------------------------------------------------
+# RSS
+# ---------------------------------------------------------
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
