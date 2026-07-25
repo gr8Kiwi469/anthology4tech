@@ -29,10 +29,13 @@ canonifyURLs = true
   TocOpen = false              # TOC collapsed by default
 
   # Homepage mode (choose one)
-  homeInfoParams = { 
-    Title = "Welcome to Anthology4Tech",
-    Content = "A curated collection of technical insights, workflows, and tools."
-  }
+#  homeInfoParams = { 
+#    Title = "Welcome to Anthology4Tech",
+#    Content = "A curated collection of technical insights, workflows, and tools."
+#  }
+[params.homeInfoParams]
+Title = "Welcome to Anthology4Tech"
+Content = "A curated collection of technical insights, workflows, and tools."
 
   # Author block (optional)
   [params.author]
