@@ -1,5 +1,5 @@
 theme = "PaperMod"
-baseURL = 'https://example.org/'
+baseURL = 'https://anthology4tech.com/'
 locale = 'en-us'
 title = 'Anthology4Tech'
 subtitle = "Technical insights, tools, and workflows"
@@ -26,4 +26,3 @@ subtitle = "Technical insights, tools, and workflows"
   
  [params]
   defaultTheme = "auto" # or "dark" or "light"
-  
