@@ -34,8 +34,12 @@ canonifyURLs = true
 #    Content = "A curated collection of technical insights, workflows, and tools."
 #  }
 [params.homeInfoParams]
-Title = "Welcome to Anthology4Tech"
-Content = "A curated collection of technical insights, workflows, and tools."
+Title = "Anthology4Tech"
+Content = """
+Curated insights across DevOps, ALM, AI, Cloud, Security, and Leadership.
+
+Explore topics, read deep‑dive posts, and follow the evolving Anthology ecosystem.
+"""
 
   # Author block (optional)
   [params.author]
