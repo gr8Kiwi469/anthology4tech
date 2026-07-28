@@ -66,12 +66,12 @@ Explore topics, read deep‑dive posts, and follow the evolving Anthology ecosys
 
   [[menu.main]]
     name = "Topics"
-    url = "/topics/"
+    url = "/Topics/"
     weight = 2
 
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/About/"
     weight = 3
 
 # ---------------------------------------------------------
