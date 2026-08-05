@@ -60,9 +60,15 @@ Explore topics, read deep‑dive posts, and follow the evolving Anthology ecosys
 [menu]
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Home - AnthologyAtelier"
+    url = "https://anthologyatelier.com/"
+#    weight = 20
     weight = 1
+
+#  [[menu.main]]
+#    name = "Posts"
+#    url = "/posts/"
+#    weight = 1
 
   [[menu.main]]
     name = "Topics"
