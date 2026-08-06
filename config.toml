@@ -60,7 +60,7 @@ Explore topics, read deep‑dive posts, and follow the evolving Anthology ecosys
 [menu]
 
   [[menu.main]]
-    name = "Home - AnthologyAtelier"
+    name = "AnthologyAtelier"
     url = "https://anthologyatelier.com/"
 #    weight = 20
     weight = 1
