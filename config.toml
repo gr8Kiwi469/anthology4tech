@@ -16,7 +16,9 @@ canonifyURLs = true
 # PaperMod Core Parameters
 # ---------------------------------------------------------
 [params]
-  defaultTheme = "auto"        # auto | dark | light
+#  defaultTheme = "auto"        # auto | dark | light
+  defaultTheme = "light"        # auto | dark | light
+
   disableThemeToggle = false
 
   customCSS = ["css/brand.css"]
