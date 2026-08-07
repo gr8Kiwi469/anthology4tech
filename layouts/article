@@ -1,0 +1,24 @@
+---
+title: "The Architecture of Modern Workflows"
+date: 2026-08-01
+layout: "article"
+summary: "A structured exploration of how workflows shape productivity, clarity, and team alignment."
+tags: ["workflow", "systems", "productivity"]
+access: "public" # or "subscriber"
+---
+
+<section class="article-hero">
+  <h1>{{ .Title }}</h1>
+  <p class="summary">{{ .Summary }}</p>
+</section>
+
+<section class="article-body">
+  {{ .Content }}
+</section>
+
+<section class="cta">
+  {{ if eq .Params.access "public" }}
+    <p>Want the full article and access to all releases?</p>
+    <a class="cta" href="/subscribe">Unlock Full Access</a>
+  {{ end }}
+</section>
