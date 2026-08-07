@@ -18,6 +18,9 @@ canonifyURLs = true
 [params]
   defaultTheme = "auto"        # auto | dark | light
   disableThemeToggle = false
+
+  customCSS = ["css/brand.css"]
+
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true

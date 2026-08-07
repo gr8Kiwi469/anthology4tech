@@ -4,16 +4,25 @@ description: "Technical essays, notes, and explorations."
 ---
 Welcome to Anthology4Tech — a curated collection of technical insights.
 
----
-title: "Anthology4Tech"
-layout: "home"
----
+#---
+#title: "Anthology4Tech"
+#layout: "home"
+#---
 
-<section class="hero">
+<section class="hero hero-a4tech">
   <h1>Structured Insight for Modern Work</h1>
   <p>Sample articles, premium content, and subscriber-only releases.</p>
   <a class="cta" href="/subscribe">Unlock Full Access</a>
+  <div class="hero-node-overlay">
+    <img src="/img/a4tech-hero-nodes.svg" alt="Idea network graphic">
+  </div>
 </section>
+
+#<section class="hero">
+#  <h1>Structured Insight for Modern Work</h1>
+#  <p>Sample articles, premium content, and subscriber-only releases.</p>
+#  <a class="cta" href="/subscribe">Unlock Full Access</a>
+#</section>
 
 <section class="samples">
   <h2>Sample Articles</h2>
