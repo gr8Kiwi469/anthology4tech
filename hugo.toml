@@ -1,5 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://anthology4tech.com/'
 locale = 'en-us'
-title = 'My New Hugo Blowfish Project'
+title = 'Anthology4Tech'
 theme = "blowfish"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
