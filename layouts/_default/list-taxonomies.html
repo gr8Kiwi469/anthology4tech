@@ -1,0 +1,8 @@
+{{ range $taxonomy, $terms := .Site.Taxonomies }}
+<h2>{{ $taxonomy }}</h2>
+<ul>
+  {{ range $term, $pages := $terms }}
+  <li>{{ $term }} ({{ len $pages }})</li>
+  {{ end }}
+</ul>
+{{ end }}

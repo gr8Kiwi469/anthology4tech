@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alm on My New Hugo Blowfish Project</title>
+    <link>http://localhost:1313/tags/alm/</link>
+    <description>Recent content in Alm on My New Hugo Blowfish Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/alm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What ALM Really Means</title>
+      <link>http://localhost:1313/posts/alm-overview/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/alm-overview/</guid>
+      <description>Understanding application lifecycle management from planning to delivery.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

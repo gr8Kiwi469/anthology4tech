@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on My New Hugo Blowfish Project</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on My New Hugo Blowfish Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>http://localhost:1313/articles/architecture-of-modern-workflows-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/architecture-of-modern-workflows-full/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>http://localhost:1313/articles/the-systems-map-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/the-systems-map-full/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>http://localhost:1313/articles/the-value-layer-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/the-value-layer-full/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
