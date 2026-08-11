@@ -18,3 +18,329 @@ theme = "blowfish"
   tag = "tags"
   category = "categories"
   series = "series"
+
+#🟦 Column 1 — Top‑Level Menus
+
+[menu]
+
+  [[menu.main]]
+    name = "Anthologyatelier"
+    url = "https://anthologyatelier.com/"
+    weight = 1
+    identifier = "anthologyatelier"
+
+  [[menu.main]]
+    name = "IT / Articles"
+    url = "/articles/"
+    weight = 2
+    identifier = "articles"
+
+  [[menu.main]]
+    name = "Personal Improvement"
+    url = "/personal-improvement/"
+    weight = 3
+    identifier = "personal-improvement"
+
+  [[menu.main]]
+    name = "Posts / Blog"
+    url = "/posts/"
+    weight = 4
+    identifier = "posts/"
+
+  [[menu.main]]
+    name = "About"
+    url = "/About/"
+    weight = 5
+    identifier = "about"
+
+#🟦 Column 2 — Dropdowns Under Articles
+
+  [[menu.main]]
+    name = "Environment"
+    url = "/articles/environment/"
+    parent = "articles"
+    weight = 1
+    identifier = "environment"
+
+  [[menu.main]]
+    name = "OS"
+    url = "/articles/os/"
+    parent = "articles"
+    weight = 2
+    identifier = "os"
+
+  [[menu.main]]
+    name = "AI"
+    url = "/articles/ai/"
+    parent = "articles"
+    weight = 3
+    identifier = "ai"
+
+  [[menu.main]]
+    name = "DevOps / ALM"
+    url = "/articles/devops/"
+    parent = "articles"
+    weight = 4
+    identifier = "devops"
+
+  [[menu.main]]
+    name = "Cloud"
+    url = "/articles/cloud/"
+    parent = "articles"
+    weight = 5
+    identifier = "cloud"
+
+  [[menu.main]]
+    name = "Security"
+    url = "/articles/security/"
+    parent = "articles"
+    weight = 6
+    identifier = "security"
+
+  [[menu.main]]
+    name = "IaC"
+    url = "/articles/iac/"
+    parent = "articles"
+    weight = 7
+    identifier = "iac"
+
+  [[menu.main]]
+    name = "Containers"
+    url = "/articles/containers/"
+    parent = "articles"
+    weight = 8
+    identifier = "containers"
+
+  [[menu.main]]
+    name = "Tutorials"
+    url = "/articles/tutorials/"
+    parent = "articles"
+    weight = 9
+    identifier = "tutorials"
+
+  [[menu.main]]
+    name = "3rd Party Tools/Apps"
+    url = "/articles/3rdparty/"
+    parent = "articles"
+    weight = 10
+    identifier = "3rdparty"
+
+#🟦 Column 2 — Dropdowns Under Personal Improvement
+
+  [[menu.main]]
+    name = "Managerial"
+    url = "/personal-improvement/managerial/"
+    parent = "personal-improvement"
+    weight = 1
+    identifier = "managerial"
+
+  [[menu.main]]
+    name = "Resume/LinkedIn"
+    url = "/personal-improvement/resumeli/"
+    parent = "personal-improvement"
+    weight = 2
+    identifier = "resumeli"
+
+#🟦 Column 2 — Dropdowns Under Posts/Blogs
+
+#🟦 Column 2 — Dropdowns About
+
+#🟦 Column 3 — Deep Dropdowns Under Environment
+
+  [[menu.main]]
+    name = "Platform"
+    url = "/articles/environment/Platform/"
+    parent = "environment"
+    weight = 1
+
+  [[menu.main]]
+    name = "Networks/VMs"
+    url = "/articles/environment/networks/"
+    parent = "environment"
+    weight = 2
+
+  [[menu.main]]
+    name = "GitHub"
+    url = "/articles/environment/github/"
+    parent = "environment"
+    weight = 3
+
+  [[menu.main]]
+    name = "Cloudflare Pages"
+    url = "/articles/environment/cloudflare/"
+    parent = "environment"
+    weight = 4
+
+#🟦 Column 3 — Deep Dropdowns Under OS
+
+  [[menu.main]]
+    name = "Windows"
+    url = "/articles/os/windows/"
+    parent = "os"
+    weight = 1
+
+  [[menu.main]]
+    name = "Mac"
+    url = "/articles/os/mac/"
+    parent = "os"
+    weight = 2
+
+  [[menu.main]]
+    name = "Linux"
+    url = "/articles/os/linux/"
+    parent = "os"
+    weight = 3
+
+#🟦 Column 3 — Deep Dropdowns Under AI
+
+  [[menu.main]]
+    name = "ChatBots"
+    url = "/articles/ai/chatbots/"
+    parent = "ai"
+    weight = 1
+
+  [[menu.main]]
+    name = "Agents"
+    url = "/articles/ai/agents/"
+    parent = "ai"
+    weight = 2
+
+  [[menu.main]]
+    name = "LLMs"
+    url = "/articles/ai/llms/"
+    parent = "ai"
+    weight = 3
+
+#🟦 Column 3 — Deep Dropdowns Under DevOps
+
+  [[menu.main]]
+    name = "CI/CD"
+    url = "/articles/devops/cicd/"
+    parent = "devops"
+    weight = 1
+
+  [[menu.main]]
+    name = "GitOps"
+    url = "/articles/devops/gitops/"
+    parent = "devops"
+    weight = 2
+
+  [[menu.main]]
+    name = "Infrastructure as Code"
+    url = "/articles/devops/iac/"
+    parent = "devops"
+    weight = 3
+
+#🟦 Column 3 — Deep Dropdowns Under Cloud
+
+  [[menu.main]]
+    name = "Azure"
+    url = "/articles/cloud/azure/"
+    parent = "cloud"
+    weight = 1
+
+  [[menu.main]]
+    name = "AWS"
+    url = "/articles/cloud/aws/"
+    parent = "cloud"
+    weight = 2
+
+  [[menu.main]]
+    name = "GCP"
+    url = "/articles/cloud/gcp/"
+    parent = "cloud"
+    weight = 3
+
+  [[menu.main]]
+    name = "Oracle"
+    url = "/articles/cloud/oracle/"
+    parent = "cloud"
+    weight = 4
+
+#🟦 Column 3 — Deep Dropdowns Under Security
+
+  [[menu.main]]
+    name = "Code"
+    url = "/articles/security/code/"
+    parent = "security"
+    weight = 1
+
+  [[menu.main]]
+    name = "Platform"
+    url = "/articles/security/platform/"
+    parent = "security"
+    weight = 2
+
+  [[menu.main]]
+    name = "AI"
+    url = "/articles/security/ai/"
+    parent = "security"
+    weight = 3
+
+#🟦 Column 3 — Deep Dropdowns Under IaC
+
+  [[menu.main]]
+    name = "Terraform"
+    url = "/articles/iac/terraform/"
+    parent = "iac"
+    weight = 1
+
+  [[menu.main]]
+    name = "ARM"
+    url = "/articles/iac/arm/"
+    parent = "iac"
+    weight = 2
+
+  [[menu.main]]
+    name = "Bicep"
+    url = "/articles/iac/bicep/"
+    parent = "iac"
+    weight = 3
+
+#🟦 Column 3 — Deep Dropdowns Under Containers
+
+  [[menu.main]]
+    name = "Docker"
+    url = "/articles/containers/docker/"
+    parent = "containers"
+    weight = 1
+
+  [[menu.main]]
+    name = "Kubernetes"
+    url = "/articles/containers/kubernetes/"
+    parent = "containers"
+    weight = 2
+
+#🟦 Column 3 — Deep Dropdowns Under Tutorials
+
+  [[menu.main]]
+    name = "[potentially many]"
+    url = "/articles/tutorials/many/"
+    parent = "tutorials"
+    weight = 1
+
+#🟦 Column 3 — Deep Dropdowns Under 3rdparty
+
+  [[menu.main]]
+    name = "HUGO"
+    url = "/articles/3rdparty/hugo/"
+    parent = "3rdparty"
+    weight = 1
+
+  [[menu.main]]
+    name = "TiddlyWiki"
+    url = "/articles/3rdparty/tiddlywiki/"
+    parent = "3rdparty"
+    weight = 2
+
+  [[menu.main]]
+    name = "[potentially many]"
+    url = "/articles/3rdparty/many/"
+    parent = "3rdparty"
+    weight = 3
+
+#🟦 Column 3 — Deep Dropdowns Under Managerial
+
+#🟦 Column 3 — Deep Dropdowns Under Resume/LinkedIn
+
+#🟦 Column 3 — Deep Dropdowns Under Opinion/research
