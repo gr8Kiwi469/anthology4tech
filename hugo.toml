@@ -3,6 +3,17 @@ locale = 'en-us'
 title = 'Anthology4Tech'
 theme = "blowfish"
 
+[params]
+  toc = true
+  tocOpen = true
+
+  showReadingTime = true
+  showDate = true
+  showAuthor = true
+  showTags = true
+  showCategories = true
+  showSeries = true
+
 [taxonomies]
   tag = "tags"
   category = "categories"
