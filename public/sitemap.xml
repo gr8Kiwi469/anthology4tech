@@ -78,6 +78,18 @@
     <loc>http://localhost:1313/articles/</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/essays/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/notes/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/samples/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tools/</loc>
   </url>
 </urlset>
