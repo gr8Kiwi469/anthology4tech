@@ -141,6 +141,16 @@
     
     <item>
       <title>Anthology4Tech</title>
+      <link>http://localhost:1313/pmindex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pmindex/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
       <link>http://localhost:1313/samples/systems-thinking-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

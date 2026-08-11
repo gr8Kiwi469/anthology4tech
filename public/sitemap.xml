@@ -54,12 +54,6 @@
     <loc>http://localhost:1313/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/topics/ai/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/alm/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/articles/architecture-of-modern-workflows-full/</loc>
   </url>
   <url>
@@ -67,6 +61,9 @@
   </url>
   <url>
     <loc>http://localhost:1313/articles/the-value-layer-full/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pmindex/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/samples/systems-thinking-preview/</loc>
@@ -81,27 +78,6 @@
     <loc>http://localhost:1313/articles/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/topics/devops/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/leadership/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/personal-development/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/platform/</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/samples/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/security/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/tools/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/topics/</loc>
   </url>
 </urlset>
