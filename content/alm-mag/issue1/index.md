@@ -18,7 +18,3 @@ Download the full issue:
 
 
 
-You can also right-click and save the file locally.
-
-
-
