@@ -45,7 +45,7 @@ theme = "blowfish"
     name = "Posts / Blog"
     url = "/posts/"
     weight = 4
-    identifier = "posts/"
+    identifier = "posts"
 
   [[menu.main]]
     name = "About"
