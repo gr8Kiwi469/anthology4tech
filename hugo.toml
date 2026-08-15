@@ -161,12 +161,12 @@ theme = "blowfish"
     weight = 4
     identifier = "issue4"
 
-#  [[menu.main]]
-#    name = "Issue 5"
+  [[menu.main]]
+    name = "Issue 5 - Currently Under Construction"
 #    url = "/alm-mag/issue5/"
-#    parent = "alm-mag"
-#    weight = 5
-#    identifier = "issue5"
+    parent = "alm-mag"
+    weight = 5
+    identifier = "issue5"
 
 #🟦 Column 2 — Dropdowns Under Personal Improvement
 
