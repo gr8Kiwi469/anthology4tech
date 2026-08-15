@@ -30,100 +30,143 @@ theme = "blowfish"
     identifier = "anthologyatelier"
 
   [[menu.main]]
-    name = "IT / Articles"
-    url = "/articles/"
+    name = "IT / Topics"
+    url = "/topics/"
     weight = 2
-    identifier = "articles"
+    identifier = "topics"
 
   [[menu.main]]
+    name = "ALM Mag"
+    url = "/alm-mag/"
+    weight = 3
+    identifier = "alm-mag"
+ 
+ [[menu.main]]
     name = "Personal Improvement"
     url = "/personal-improvement/"
-    weight = 3
+    weight = 4
     identifier = "personal-improvement"
 
   [[menu.main]]
     name = "Posts / Blog"
     url = "/posts/"
-    weight = 4
+    weight = 5
     identifier = "posts"
 
   [[menu.main]]
     name = "About"
     url = "/About/"
-    weight = 5
+    weight = 6
     identifier = "about"
 
-#🟦 Column 2 — Dropdowns Under Articles
+#🟦 Column 2 — Dropdowns Under Topics
 
   [[menu.main]]
     name = "Environment"
-    url = "/articles/environment/"
-    parent = "articles"
+    url = "/topics/environment/"
+    parent = "topics"
     weight = 1
     identifier = "environment"
 
   [[menu.main]]
     name = "OS"
-    url = "/articles/os/"
-    parent = "articles"
+    url = "/topics/os/"
+    parent = "topics"
     weight = 2
     identifier = "os"
 
   [[menu.main]]
     name = "AI"
-    url = "/articles/ai/"
-    parent = "articles"
+    url = "/topics/ai/"
+    parent = "topics"
     weight = 3
     identifier = "ai"
 
   [[menu.main]]
     name = "DevOps / ALM"
-    url = "/articles/devops/"
-    parent = "articles"
+    url = "/topics/devops/"
+    parent = "topics"
     weight = 4
     identifier = "devops"
 
   [[menu.main]]
     name = "Cloud"
-    url = "/articles/cloud/"
-    parent = "articles"
+    url = "/topics/cloud/"
+    parent = "topics"
     weight = 5
     identifier = "cloud"
 
   [[menu.main]]
     name = "Security"
-    url = "/articles/security/"
-    parent = "articles"
+    url = "/topics/security/"
+    parent = "topics"
     weight = 6
     identifier = "security"
 
   [[menu.main]]
     name = "IaC"
-    url = "/articles/iac/"
-    parent = "articles"
+    url = "/topics/iac/"
+    parent = "topics"
     weight = 7
     identifier = "iac"
 
   [[menu.main]]
     name = "Containers"
-    url = "/articles/containers/"
-    parent = "articles"
+    url = "/topics/containers/"
+    parent = "topics"
     weight = 8
     identifier = "containers"
 
   [[menu.main]]
     name = "Tutorials"
-    url = "/articles/tutorials/"
-    parent = "articles"
+    url = "/topics/tutorials/"
+    parent = "topics"
     weight = 9
     identifier = "tutorials"
 
   [[menu.main]]
     name = "3rd Party Tools/Apps"
-    url = "/articles/3rdparty/"
-    parent = "articles"
+    url = "/topics/3rdparty/"
+    parent = "topics"
     weight = 10
     identifier = "3rdparty"
+
+#🟦 Column 2 — Dropdowns Under ALM Mag
+
+  [[menu.main]]
+    name = "Issue 1"
+    url = "/alm-mag/issue1/"
+    parent = "alm-mag"
+    weight = 1
+    identifier = "issue1"  
+
+  [[menu.main]]
+    name = "Issue 2"
+    url = "/alm-mag/issue2/"
+    parent = "alm-mag"
+    weight = 2
+    identifier = "issue2"
+
+  [[menu.main]]
+    name = "Issue 3"
+    url = "/alm-mag/issue3/"
+    parent = "alm-mag"
+    weight = 2
+    identifier = "issue3"
+
+  [[menu.main]]
+    name = "Issue 4"
+    url = "/alm-mag/issue4/"
+    parent = "alm-mag"
+    weight = 2
+    identifier = "issue4"
+
+  [[menu.main]]
+    name = "Issue 5"
+    url = "/alm-mag/issue5/"
+    parent = "alm-mag"
+    weight = 2
+    identifier = "issue5"
 
 #🟦 Column 2 — Dropdowns Under Personal Improvement
 
@@ -149,25 +192,25 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "Platform"
-    url = "/articles/environment/Platform/"
+    url = "/topics/environment/Platform/"
     parent = "environment"
     weight = 1
 
   [[menu.main]]
     name = "Networks/VMs"
-    url = "/articles/environment/networks/"
+    url = "/topics/environment/networks/"
     parent = "environment"
     weight = 2
 
   [[menu.main]]
     name = "GitHub"
-    url = "/articles/environment/github/"
+    url = "/topics/environment/github/"
     parent = "environment"
     weight = 3
 
   [[menu.main]]
     name = "Cloudflare Pages"
-    url = "/articles/environment/cloudflare/"
+    url = "/topics/environment/cloudflare/"
     parent = "environment"
     weight = 4
 
@@ -175,19 +218,19 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "Windows"
-    url = "/articles/os/windows/"
+    url = "/topics/os/windows/"
     parent = "os"
     weight = 1
 
   [[menu.main]]
     name = "Mac"
-    url = "/articles/os/mac/"
+    url = "/topics/os/mac/"
     parent = "os"
     weight = 2
 
   [[menu.main]]
     name = "Linux"
-    url = "/articles/os/linux/"
+    url = "/topics/os/linux/"
     parent = "os"
     weight = 3
 
@@ -195,19 +238,19 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "ChatBots"
-    url = "/articles/ai/chatbots/"
+    url = "/topics/ai/chatbots/"
     parent = "ai"
     weight = 1
 
   [[menu.main]]
     name = "Agents"
-    url = "/articles/ai/agents/"
+    url = "/topics/ai/agents/"
     parent = "ai"
     weight = 2
 
   [[menu.main]]
     name = "LLMs"
-    url = "/articles/ai/llms/"
+    url = "/topics/ai/llms/"
     parent = "ai"
     weight = 3
 
@@ -215,19 +258,19 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "CI/CD"
-    url = "/articles/devops/cicd/"
+    url = "/topics/devops/cicd/"
     parent = "devops"
     weight = 1
 
   [[menu.main]]
     name = "GitOps"
-    url = "/articles/devops/gitops/"
+    url = "/topics/devops/gitops/"
     parent = "devops"
     weight = 2
 
   [[menu.main]]
     name = "Infrastructure as Code"
-    url = "/articles/devops/iac/"
+    url = "/topics/devops/iac/"
     parent = "devops"
     weight = 3
 
@@ -235,25 +278,25 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "Azure"
-    url = "/articles/cloud/azure/"
+    url = "/topics/cloud/azure/"
     parent = "cloud"
     weight = 1
 
   [[menu.main]]
     name = "AWS"
-    url = "/articles/cloud/aws/"
+    url = "/topics/cloud/aws/"
     parent = "cloud"
     weight = 2
 
   [[menu.main]]
     name = "GCP"
-    url = "/articles/cloud/gcp/"
+    url = "/topics/cloud/gcp/"
     parent = "cloud"
     weight = 3
 
   [[menu.main]]
     name = "Oracle"
-    url = "/articles/cloud/oracle/"
+    url = "/topics/cloud/oracle/"
     parent = "cloud"
     weight = 4
 
@@ -261,19 +304,19 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "Code"
-    url = "/articles/security/code/"
+    url = "/topics/security/code/"
     parent = "security"
     weight = 1
 
   [[menu.main]]
     name = "Platform"
-    url = "/articles/security/platform/"
+    url = "/topics/security/platform/"
     parent = "security"
     weight = 2
 
   [[menu.main]]
     name = "AI"
-    url = "/articles/security/ai/"
+    url = "/topics/security/ai/"
     parent = "security"
     weight = 3
 
@@ -281,19 +324,19 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "Terraform"
-    url = "/articles/iac/terraform/"
+    url = "/topics/iac/terraform/"
     parent = "iac"
     weight = 1
 
   [[menu.main]]
     name = "ARM"
-    url = "/articles/iac/arm/"
+    url = "/topics/iac/arm/"
     parent = "iac"
     weight = 2
 
   [[menu.main]]
     name = "Bicep"
-    url = "/articles/iac/bicep/"
+    url = "/topics/iac/bicep/"
     parent = "iac"
     weight = 3
 
@@ -301,13 +344,13 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "Docker"
-    url = "/articles/containers/docker/"
+    url = "/topics/containers/docker/"
     parent = "containers"
     weight = 1
 
   [[menu.main]]
     name = "Kubernetes"
-    url = "/articles/containers/kubernetes/"
+    url = "/topics/containers/kubernetes/"
     parent = "containers"
     weight = 2
 
@@ -315,7 +358,7 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "[potentially many]"
-    url = "/articles/tutorials/many/"
+    url = "/topics/tutorials/many/"
     parent = "tutorials"
     weight = 1
 
@@ -323,19 +366,19 @@ theme = "blowfish"
 
   [[menu.main]]
     name = "HUGO"
-    url = "/articles/3rdparty/hugo/"
+    url = "/topics/3rdparty/hugo/"
     parent = "3rdparty"
     weight = 1
 
   [[menu.main]]
     name = "TiddlyWiki"
-    url = "/articles/3rdparty/tiddlywiki/"
+    url = "/topics/3rdparty/tiddlywiki/"
     parent = "3rdparty"
     weight = 2
 
   [[menu.main]]
     name = "[potentially many]"
-    url = "/articles/3rdparty/many/"
+    url = "/topics/3rdparty/many/"
     parent = "3rdparty"
     weight = 3
 
