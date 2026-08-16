@@ -7,6 +7,8 @@ theme = "blowfish"
   toc = true
   tocOpen = true
 
+  mainSections = ["posts"]
+
   showReadingTime = true
   showDate = true
   showAuthor = true
