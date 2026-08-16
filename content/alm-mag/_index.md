@@ -1,12 +1,11 @@
 ---
 title: "ALM Mag"
-type: "page"
-date: 2012-01-15
 description: "Archive of ALM Mag issues originally published in 2012. ALM Mag brings together development, building and deployment through automation and continuous improvement. This section covers GitOps, CI/CD pipelines, and delivery workflows."
-pdf: "/alm-mag/ALM-Mag-Issue-1.pdf"
+type: "section"
+cascade:
+  type: "page"
+weight: 40
 ---
-
-#weight: 40
 
 CONSTRUCTION ZONE
 
