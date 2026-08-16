@@ -3,6 +3,7 @@
 title: "ALM Mag – Issue 1 (2012)"
 
 type: "page"
+layout: "page"
 
 date: 2012-01-15
 

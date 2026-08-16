@@ -1,13 +1,22 @@
-## Set-Content -Path content\\about\_index.md -Value @"
+\---
 
-## title: "Issue 5"
+title: "ALM Mag – Issue 5 (2012)"
+
+type: "page"
+
+layout: "page"
+
+date: 2012-01-15
+
+description: "The fifth issue of ALM Mag, exploring early ALM tooling and workflow thinking."
+
+pdf: "/alm-mag/ALM-Mag-Issue-5.pdf"
+
+\---
 
 
 
 CONSTRUCTION ZONE
 
 
-
-Anthology Atelier is the parent studio now hosting ALM Mag knowledge platform.
-"@
 

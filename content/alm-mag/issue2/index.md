@@ -1,23 +1,13 @@
-## Set-Content -Path content\\about\_index.md -Value @"
-
-## title: "Issue 2"
-
-
-
-<embed src="/alm-mag/ALM-Mag-Issue-1.pdf" width="100%" height="800px" />
-
-
-
+---
+title: "ALM Mag – Issue 2 (2012)"
+type: "page"
+layout: "page"
+date: 2012-01-15
+description: "The second issue of ALM Mag, exploring early ALM tooling and workflow thinking."
+pdf: "/alm-mag/ALM-Mag-Issue-2.pdf"
+---
 
 
 CONSTRUCTION ZONE
-
-
-
-Anthology Atelier is the parent studio now hosting ALM Mag knowledge platform.
-"@
-
-<embed src="/alm-mag/ALM-Mag-Issue-1.pdf" width="100%" height="800px" />
-
 
 
