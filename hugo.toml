@@ -3,11 +3,11 @@ locale = 'en-us'
 title = 'Anthology4Tech'
 theme = "blowfish"
 
+mainSections = ["posts"]
+
 [params]
   toc = true
   tocOpen = true
-
-  mainSections = ["posts"]
 
   showReadingTime = true
   showDate = true
