@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="alm-issue">
+  <h1>{{ .Title }}</h1>
+
+  {{ if .Params.pdf }}
+  <p><a href="{{ .Params.pdf }}" target="_blank">Download PDF</a></p>
+  {{ end }}
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
