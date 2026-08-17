@@ -8,6 +8,8 @@ description: "The first issue of ALM Mag, exploring early ALM tooling and workfl
 
 pdf: "/alm-mag/ALM-Mag-Issue-1.pdf"
 
+layout: "alm-issue"
+
 \---
 
 Download the full issue:

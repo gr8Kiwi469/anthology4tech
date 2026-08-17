@@ -8,9 +8,17 @@ description: "The fifth issue of ALM Mag, exploring early ALM tooling and workfl
 
 pdf: "/alm-mag/ALM-Mag-Issue-5.pdf"
 
+layout: "alm-issue"
+
 \---
 
+\#Download the full issue:
 
 
-CONSTRUCTION ZONE
+
+\#\[Open the PDF](/alm-mag/ALM-Mag-Issue-5.pdf)
+
+
+
+\#You can also right-click and save the file locally.
 
