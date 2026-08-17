@@ -10,6 +10,8 @@ pdf: "/alm-mag/ALM-Mag-Issue-3.pdf"
 
 layout: "alm-issue"
 
+type: "alm-issue"
+
 \---
 
 Download the full issue:

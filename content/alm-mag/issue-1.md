@@ -10,6 +10,8 @@ pdf: "/alm-mag/ALM-Mag-Issue-1.pdf"
 
 layout: "alm-issue"
 
+type: "alm-issue"
+
 \---
 
 Download the full issue:
@@ -21,4 +23,6 @@ Download the full issue:
 
 
 You can also right-click and save the file locally.
+
+
 

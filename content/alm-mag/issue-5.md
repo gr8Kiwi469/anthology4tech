@@ -10,15 +10,17 @@ pdf: "/alm-mag/ALM-Mag-Issue-5.pdf"
 
 layout: "alm-issue"
 
+type: "alm-issue"
+
 \---
 
-\#Download the full issue:
+Download the full issue:
 
 
 
-\#\[Open the PDF](/alm-mag/ALM-Mag-Issue-5.pdf)
+\[Open the PDF](/alm-mag/ALM-Mag-Issue-5.pdf)
 
 
 
-\#You can also right-click and save the file locally.
+You can also right-click and save the file locally.
 

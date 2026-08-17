@@ -165,10 +165,10 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Issue 5 - Currently Under Construction"
-#    pageRef = "alm-mag/issue-5"
-#    parent = "alm-mag"
+    pageRef = "alm-mag/issue-5"
+    parent = "alm-mag"
     weight = 5
-#    identifier = "issue-5"
+    identifier = "issue-5"
 
 #🟦 Column 2 — Dropdowns Under Personal Improvement
 
