@@ -39,10 +39,10 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "ALM Mag"
-    url = "/alm-mag/"
-    weight = 3
+    pageRef = "alm-mag"
     identifier = "alm-mag"
- 
+    weight = 3 
+
  [[menu.main]]
     name = "Personal Improvement"
     url = "/personal-improvement/"
@@ -137,38 +137,38 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Issue 1"
-    url = "/alm-mag/issue1/"
+    pageRef = "alm-mag/issue-1"
     parent = "alm-mag"
     weight = 1
     identifier = "issue1"  
 
   [[menu.main]]
     name = "Issue 2"
-    url = "/alm-mag/issue2/"
+    pageRef = "alm-mag/issue-2"
     parent = "alm-mag"
     weight = 2
-    identifier = "issue2"
+    identifier = "issue-2"
 
   [[menu.main]]
     name = "Issue 3"
-    url = "/alm-mag/issue3/"
+    pageRef = "alm-mag/issue-3"
     parent = "alm-mag"
     weight = 3
-    identifier = "issue3"
+    identifier = "issue-3"
 
   [[menu.main]]
     name = "Issue 4"
-    url = "/alm-mag/issue4/"
+    pageRef = "alm-mag/issue-4"
     parent = "alm-mag"
     weight = 4
-    identifier = "issue4"
+    identifier = "issue-4"
 
   [[menu.main]]
     name = "Issue 5 - Currently Under Construction"
-#    url = "/alm-mag/issue5/"
-    parent = "alm-mag"
+#    pageRef = "alm-mag/issue-5"
+#    parent = "alm-mag"
     weight = 5
-    identifier = "issue5"
+#    identifier = "issue-5"
 
 #🟦 Column 2 — Dropdowns Under Personal Improvement
 
