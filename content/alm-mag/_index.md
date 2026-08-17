@@ -3,8 +3,6 @@ title: "ALM Mag"
 description: "Archive of ALM Mag issues originally published in 2012. ALM Mag brings together development, building and deployment through automation and continuous improvement. This section covers GitOps, CI/CD pipelines, and delivery workflows."
 type: "alm-issue"
 layout: "alm-issue"
-cascade:
-  type: "page"
 weight: 40
 ---
 
