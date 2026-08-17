@@ -2,39 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samples on Anthology4Tech</title>
-    <link>http://localhost:1313/samples/</link>
+    <link>https://anthology4tech.com/samples/</link>
     <description>Recent content in Samples on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/samples/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
+    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
+    <copyright>© 2026 Keith Denham</copyright>
+    <atom:link href="https://anthology4tech.com/samples/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/systems-thinking-preview/</link>
+      <link>https://anthology4tech.com/samples/systems-thinking-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/systems-thinking-preview/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/samples/systems-thinking-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/the-systems-map/</link>
+      <link>https://anthology4tech.com/samples/the-systems-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/the-systems-map/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/samples/the-systems-map/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/the-value-layer/</link>
+      <link>https://anthology4tech.com/samples/the-value-layer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/the-value-layer/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/samples/the-value-layer/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>

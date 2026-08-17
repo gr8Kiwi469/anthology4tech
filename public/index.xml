@@ -2,179 +2,231 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthology4Tech</title>
-    <link>http://localhost:1313/</link>
+    <link>https://anthology4tech.com/</link>
     <description>Recent content on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
+    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
+    <copyright>© 2026 Keith Denham</copyright>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://anthology4tech.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI in Engineering Workflows</title>
-      <link>http://localhost:1313/posts/ai-in-engineering/</link>
+      <link>https://anthology4tech.com/posts/ai-in-engineering/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/ai-in-engineering/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/ai-in-engineering/</guid>
       <description>How AI is reshaping engineering workflows and developer productivity.</description>
       
     </item>
     
     <item>
       <title>DevOps Foundations</title>
-      <link>http://localhost:1313/posts/devops-foundations/</link>
+      <link>https://anthology4tech.com/posts/devops-foundations/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/devops-foundations/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/devops-foundations/</guid>
       <description>A practical overview of DevOps principles and why they matter.</description>
       
     </item>
     
     <item>
       <title>Engineering Leadership Essentials</title>
-      <link>http://localhost:1313/posts/engineering-leadership/</link>
+      <link>https://anthology4tech.com/posts/engineering-leadership/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/engineering-leadership/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/engineering-leadership/</guid>
       <description>Key principles for leading engineering teams effectively.</description>
       
     </item>
     
     <item>
       <title>Growth for Engineers</title>
-      <link>http://localhost:1313/posts/growth-for-engineers/</link>
+      <link>https://anthology4tech.com/posts/growth-for-engineers/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/growth-for-engineers/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/growth-for-engineers/</guid>
       <description>How engineers can build long-term career resilience.</description>
       
     </item>
     
     <item>
       <title>Platform Architecture Basics</title>
-      <link>http://localhost:1313/posts/platform-basics/</link>
+      <link>https://anthology4tech.com/posts/platform-basics/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/platform-basics/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/platform-basics/</guid>
       <description>A simple introduction to cloud-native architecture patterns.</description>
       
     </item>
     
     <item>
       <title>Security First</title>
-      <link>http://localhost:1313/posts/security-first/</link>
+      <link>https://anthology4tech.com/posts/security-first/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/security-first/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/security-first/</guid>
       <description>Why security must be built into every stage of development.</description>
       
     </item>
     
     <item>
       <title>Tools That Matter</title>
-      <link>http://localhost:1313/posts/tools-that-matter/</link>
+      <link>https://anthology4tech.com/posts/tools-that-matter/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/tools-that-matter/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/tools-that-matter/</guid>
       <description>A look at essential tools that improve engineering productivity.</description>
       
     </item>
     
     <item>
       <title>Understanding GitOps</title>
-      <link>http://localhost:1313/posts/understanding-gitops/</link>
+      <link>https://anthology4tech.com/posts/understanding-gitops/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/understanding-gitops/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/understanding-gitops/</guid>
       <description>A practical introduction to GitOps workflows.</description>
       
     </item>
     
     <item>
       <title>What ALM Really Means</title>
-      <link>http://localhost:1313/posts/alm-overview/</link>
+      <link>https://anthology4tech.com/posts/alm-overview/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/alm-overview/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/alm-overview/</guid>
       <description>Understanding application lifecycle management from planning to delivery.</description>
       
     </item>
     
     <item>
       <title>Hello Tech</title>
-      <link>http://localhost:1313/posts/hello-tech/</link>
+      <link>https://anthology4tech.com/posts/hello-tech/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/hello-tech/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/hello-tech/</guid>
       <description>First post for Anthology4Tech.</description>
       
     </item>
     
     <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/articles/architecture-of-modern-workflows-full/</link>
+      <title></title>
+      <link>https://anthology4tech.com/alm-mag/issue-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/alm-mag/issue-1/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 1 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The first issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-1.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-1.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
-      <guid>http://localhost:1313/articles/architecture-of-modern-workflows-full/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anthology4tech.com/alm-mag/issue-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/alm-mag/issue-3/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 3 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The third issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-3.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-3.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anthology4tech.com/alm-mag/issue-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/alm-mag/issue-4/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 4 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The fourth issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-4.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-4.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anthology4tech.com/alm-mag/issue-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/alm-mag/issue-5/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 5 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The fifth issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-5.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-5.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ALM Mag – Issue 2 (2012)</title>
+      <link>https://anthology4tech.com/alm-mag/issue-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/alm-mag/issue-2/</guid>
+      <description>&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-2.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/articles/the-systems-map-full/</link>
+      <link>https://anthology4tech.com/pmindex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/articles/the-systems-map-full/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/articles/the-value-layer-full/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/articles/the-value-layer-full/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/pmindex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pmindex/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/pmindex/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/systems-thinking-preview/</link>
+      <link>https://anthology4tech.com/samples/systems-thinking-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/systems-thinking-preview/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/samples/systems-thinking-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/the-systems-map/</link>
+      <link>https://anthology4tech.com/samples/the-systems-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/the-systems-map/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/samples/the-systems-map/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/the-value-layer/</link>
+      <link>https://anthology4tech.com/samples/the-value-layer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/samples/the-value-layer/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
-      <guid>http://localhost:1313/samples/the-value-layer/</guid>
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>https://anthology4tech.com/topics/architecture-of-modern-workflows-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/topics/architecture-of-modern-workflows-full/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>https://anthology4tech.com/topics/the-systems-map-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/topics/the-systems-map-full/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>https://anthology4tech.com/topics/the-value-layer-full/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/topics/the-value-layer-full/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>

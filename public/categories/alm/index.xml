@@ -2,19 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alm on Anthology4Tech</title>
-    <link>http://localhost:1313/categories/alm/</link>
+    <link>https://anthology4tech.com/categories/alm/</link>
     <description>Recent content in Alm on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/alm/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
+    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
+    <copyright>© 2026 Keith Denham</copyright>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://anthology4tech.com/categories/alm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What ALM Really Means</title>
-      <link>http://localhost:1313/posts/alm-overview/</link>
+      <link>https://anthology4tech.com/posts/alm-overview/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/alm-overview/</guid>
+      <author>keith.denham@almensa.com (Keith Denham)</author>
+      <guid>https://anthology4tech.com/posts/alm-overview/</guid>
       <description>Understanding application lifecycle management from planning to delivery.</description>
       
     </item>

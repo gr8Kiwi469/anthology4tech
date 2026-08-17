@@ -3,93 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/ai-in-engineering/</loc>
+    <loc>https://anthology4tech.com/alm-mag/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/posts/ai-in-engineering/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://anthology4tech.com/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/devops-foundations/</loc>
+    <loc>https://anthology4tech.com/posts/devops-foundations/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/engineering-leadership/</loc>
+    <loc>https://anthology4tech.com/posts/engineering-leadership/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/growth-for-engineers/</loc>
+    <loc>https://anthology4tech.com/posts/growth-for-engineers/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/platform-basics/</loc>
+    <loc>https://anthology4tech.com/posts/platform-basics/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://anthology4tech.com/posts/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/security-first/</loc>
+    <loc>https://anthology4tech.com/posts/security-first/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/tools-that-matter/</loc>
+    <loc>https://anthology4tech.com/posts/tools-that-matter/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/understanding-gitops/</loc>
+    <loc>https://anthology4tech.com/posts/understanding-gitops/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/alm-overview/</loc>
+    <loc>https://anthology4tech.com/posts/alm-overview/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hello-tech/</loc>
+    <loc>https://anthology4tech.com/posts/hello-tech/</loc>
     <lastmod>2026-07-23T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/architecture-of-modern-workflows-full/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-3/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/the-systems-map-full/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-4/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/the-value-layer-full/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-5/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/pmindex/</loc>
+    <loc>https://anthology4tech.com/topics/3rdparty/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/systems-thinking-preview/</loc>
+    <loc>https://anthology4tech.com/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/the-systems-map/</loc>
+    <loc>https://anthology4tech.com/topics/ai/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/the-value-layer/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://anthology4tech.com/pmindex/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/essays/</loc>
+    <loc>https://anthology4tech.com/samples/systems-thinking-preview/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>https://anthology4tech.com/samples/the-systems-map/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://anthology4tech.com/samples/the-value-layer/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/</loc>
+    <loc>https://anthology4tech.com/topics/architecture-of-modern-workflows-full/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tools/</loc>
+    <loc>https://anthology4tech.com/topics/the-systems-map-full/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/the-value-layer-full/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/cloud/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/containers/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/devops/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/environment/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/zessays/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/iac/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/znotes/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/os/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/zprojects/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/samples/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/security/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/ztools/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/</loc>
+  </url>
+  <url>
+    <loc>https://anthology4tech.com/topics/tutorials/</loc>
   </url>
 </urlset>

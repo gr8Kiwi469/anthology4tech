@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps on Anthology4Tech</title>
-    <link>http://localhost:1313/topics/devops/</link>
+    <link>https://anthology4tech.com/topics/devops/</link>
     <description>Recent content in DevOps on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/topics/devops/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
+    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
+    <copyright>© 2026 Keith Denham</copyright>
+    <atom:link href="https://anthology4tech.com/topics/devops/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
