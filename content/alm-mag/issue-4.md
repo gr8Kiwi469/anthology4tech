@@ -12,12 +12,10 @@ type: "alm-issue"
 
 ---
 
-Download the full issue:
+Download or Open the full issue:
 
-
-
-[Open the PDF](/alm-mag/ALM-Mag-Issue-4.pdf)
-
+👉 [Download PDF](/alm-mag/ALM-Mag-Issue-4.pdf)  
+👉 [Open the PDF](/alm-mag/ALM-Mag-Issue-4.pdf)
 
 
 You can also right-click and save the file locally.

@@ -5,9 +5,12 @@ pdf: "/alm-mag/ALM-Mag-Issue-2.pdf"
 layout: "alm-issue"
 type: "alm-issue"
 ---
-Download the full issue:
 
-[Open the PDF](/alm-mag/ALM-Mag-Issue-2.pdf)
+Download or Open the full issue:
+
+👉 [Download PDF](/alm-mag/ALM-Mag-Issue-2.pdf)  
+👉 [Open the PDF](/alm-mag/ALM-Mag-Issue-2.pdf)
+
 
 You can also right-click and save the file locally.
 
