@@ -6,10 +6,11 @@ layout: "alm-issue"
 type: "alm-issue"
 ---
 
-Download or Open the full issue:
+**Download or Open the full issue:**
+  
+👉 [Download PDF](/alm-mag/ALM-Mag-Issue-1.pdf)  
+👉 [Open the PDF](/alm-mag/ALM-Mag-Issue-1.pdf)
 
-[Download PDF](/alm-mag/ALM-Mag-Issue-1.pdf){ .btn .btn-primary }
-[Open the PDF](/alm-mag/ALM-Mag-Issue-1.pdf){ .btn .btn-outline }
 
 
 You can also right-click and save the file locally.
