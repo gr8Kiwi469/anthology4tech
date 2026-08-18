@@ -14,8 +14,6 @@ type: "alm-issue"
 
 Download or Open the full issue:
 
-👉 [Download PDF](/alm-mag/ALM-Mag-Issue-3.pdf)  
-👉 [Open the PDF](/alm-mag/ALM-Mag-Issue-3.pdf)
 {{< callout type="info" >}}
 **Download the full issue:**
 

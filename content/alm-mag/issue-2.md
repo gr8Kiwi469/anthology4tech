@@ -8,8 +8,6 @@ type: "alm-issue"
 
 Download or Open the full issue:
 
-👉 [Download PDF](/alm-mag/ALM-Mag-Issue-2.pdf)  
-👉 [Open the PDF](/alm-mag/ALM-Mag-Issue-2.pdf)
 [Download PDF](/alm-mag/ALM-Mag-Issue-1.pdf){ .btn .btn-primary }
 [Open the PDF](/alm-mag/ALM-Mag-Issue-1.pdf){ .btn .btn-outline }
 
