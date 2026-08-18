@@ -1,7 +1,7 @@
 baseURL = 'https://anthology4tech.com/'
 locale = 'en-us'
 title = 'Anthology4Tech'
-theme = "blowfish"
+theme = "blowfish-2"
 
 mainSections = ["posts"]
 
