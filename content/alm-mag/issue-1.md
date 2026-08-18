@@ -11,7 +11,8 @@ layout: "alm-issue"
 type: "alm-issue"
 
 ---
-Download the full issue:
+
+Download or Open the full issue:
 
 👉 [Download PDF](/alm-mag/ALM-Mag-Issue-1.pdf)  
 👉 [Open the PDF](/alm-mag/ALM-Mag-Issue-1.pdf)
