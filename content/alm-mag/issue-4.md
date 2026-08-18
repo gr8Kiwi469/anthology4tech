@@ -1,4 +1,4 @@
-\---
+---
 
 title: "ALM Mag – Issue 4 (2012)"
 
@@ -10,13 +10,13 @@ layout: "alm-issue"
 
 type: "alm-issue"
 
-\---
+---
 
 Download the full issue:
 
 
 
-\[Open the PDF](/alm-mag/ALM-Mag-Issue-4.pdf)
+[Open the PDF](/alm-mag/ALM-Mag-Issue-4.pdf)
 
 
 
