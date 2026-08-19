@@ -9,15 +9,15 @@
 
       {{ $order := slice
         (dict "key" "environment" "icon" "🌿" "label" "Environment")
-        (dict "key" "os" "icon" "💻" "label" "OS")
-        (dict "key" "ai" "icon" "🤖" "label" "AI")
+        (dict "key" "os" "icon" "💻" "label" "OS - Operating System")
+        (dict "key" "ai" "icon" "🤖" "label" "AI - Artificial Intelligence")
         (dict "key" "devops" "icon" "🔧" "label" "DevOps")
         (dict "key" "cloud" "icon" "☁️" "label" "Cloud")
         (dict "key" "security" "icon" "🛡️" "label" "Security")
         (dict "key" "iac" "icon" "🏗️" "label" "Infrastructure as Code")
         (dict "key" "containers" "icon" "📦" "label" "Containers")
+        (dict "key" "tools-apps" "icon" "🧰" "label" "Tools & Apps")
         (dict "key" "tutorials" "icon" "📘" "label" "Tutorials")
-        (dict "key" "tools-apps" "icon" "🧰" "label" "3rd Party Tools & Apps")
       }}
 
       {{ range $order }}
