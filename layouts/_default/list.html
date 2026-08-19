@@ -23,18 +23,18 @@
       {{ range $order }}
         {{ $section := $.Site.GetPage (printf "/topics/%s" .key) }}
         {{ if $section }}
-        <li class="list-item" style="margin-bottom: 1.2rem;">
+        <li class="list-item" style="margin-bottom: 1.45rem;">
 
           <a href="{{ $section.RelPermalink }}" 
-             style="font-size: 1.35rem; display: block; margin-bottom: 0.25rem;">
-            <span style="font-size: 1.45rem; margin-right: 0.4rem;">
+             style="font-size: 1.25rem; display: block; margin-bottom: 0.25rem;">
+            <span style="font-size: 1.15rem; margin-right: 0.4rem;">
               {{ .icon }}
             </span>
             {{ .label }}
           </a>
 
           {{ with $section.Params.tags }}
-          <div class="tags" style="margin-left: 0.8rem; margin-top: 0.15rem;">
+          <div class="tags" style="margin-left: 0.5in; margin-top: 0.15rem;">
             {{ range . }}
               <span class="tag" 
                     style="display: inline-block; background: rgba(255,255,255,0.08);
