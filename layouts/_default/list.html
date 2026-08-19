@@ -16,23 +16,32 @@
         (dict "key" "security" "icon" "🛡️" "label" "Security")
         (dict "key" "iac" "icon" "🏗️" "label" "Infrastructure as Code")
         (dict "key" "containers" "icon" "📦" "label" "Containers")
-        (dict "key" "tools-apps" "icon" "🧰" "label" "Tools & Apps")
         (dict "key" "tutorials" "icon" "📘" "label" "Tutorials")
+        (dict "key" "tools-apps" "icon" "🧰" "label" "3rd Party Tools & Apps")
       }}
 
       {{ range $order }}
         {{ $section := $.Site.GetPage (printf "/topics/%s" .key) }}
         {{ if $section }}
-        <li class="list-item">
+        <li class="list-item" style="margin-bottom: 1.2rem;">
 
-          <a href="{{ $section.RelPermalink }}">
-            {{ .icon }} {{ .label }}
+          <a href="{{ $section.RelPermalink }}" 
+             style="font-size: 1.35rem; display: block; margin-bottom: 0.25rem;">
+            <span style="font-size: 1.45rem; margin-right: 0.4rem;">
+              {{ .icon }}
+            </span>
+            {{ .label }}
           </a>
 
           {{ with $section.Params.tags }}
-          <div class="tags">
+          <div class="tags" style="margin-left: 0.8rem; margin-top: 0.15rem;">
             {{ range . }}
-              <span class="tag">{{ . }}</span>
+              <span class="tag" 
+                    style="display: inline-block; background: rgba(255,255,255,0.08);
+                           padding: 2px 6px; border-radius: 6px; margin-right: 6px;
+                           font-size: 0.85rem;">
+                {{ . }}
+              </span>
             {{ end }}
           </div>
           {{ end }}
