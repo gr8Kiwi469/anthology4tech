@@ -32,10 +32,10 @@ mainSections = ["posts"]
     identifier = "anthologyatelier"
 
   [[menu.main]]
-    name = "IT / Topics"
-    url = "/topics/"
+    name = "IT - Information Technology"
+    url = "/it/"
     weight = 2
-    identifier = "topics"
+    identifier = "it"
 
   [[menu.main]]
     name = "ALM Mag"
@@ -65,73 +65,73 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Environment"
-    url = "/topics/environment/"
-    parent = "topics"
+    url = "/it/environment/"
+    parent = "it"
     weight = 1
     identifier = "environment"
 
   [[menu.main]]
     name = "OS"
-    url = "/topics/os/"
-    parent = "topics"
+    url = "/it/os/"
+    parent = "it"
     weight = 2
     identifier = "os"
 
   [[menu.main]]
     name = "AI"
-    url = "/topics/ai/"
-    parent = "topics"
+    url = "/it/ai/"
+    parent = "it"
     weight = 3
     identifier = "ai"
 
   [[menu.main]]
     name = "DevOps / ALM"
-    url = "/topics/devops/"
-    parent = "topics"
+    url = "/it/devops/"
+    parent = "it"
     weight = 4
     identifier = "devops"
 
   [[menu.main]]
     name = "Cloud"
-    url = "/topics/cloud/"
-    parent = "topics"
+    url = "/it/cloud/"
+    parent = "it"
     weight = 5
     identifier = "cloud"
 
   [[menu.main]]
     name = "Security"
-    url = "/topics/security/"
-    parent = "topics"
+    url = "/it/security/"
+    parent = "it"
     weight = 6
     identifier = "security"
 
   [[menu.main]]
     name = "IaC"
-    url = "/topics/iac/"
-    parent = "topics"
+    url = "/it/iac/"
+    parent = "it"
     weight = 7
     identifier = "iac"
 
   [[menu.main]]
     name = "Containers"
-    url = "/topics/containers/"
-    parent = "topics"
+    url = "/it/containers/"
+    parent = "it"
     weight = 8
     identifier = "containers"
 
   [[menu.main]]
-    name = "Tutorials"
-    url = "/topics/tutorials/"
-    parent = "topics"
+    name = "Tools & Apps"
+    url = "/it/tools-apps/"
+    parent = "it"
     weight = 9
-    identifier = "tutorials"
-
+    identifier = "tools-apps"
+	
   [[menu.main]]
-    name = "3rd Party Tools/Apps"
-    url = "/topics/3rdparty/"
-    parent = "topics"
+    name = "Tutorials"
+    url = "/it/tutorials/"
+    parent = "it"
     weight = 10
-    identifier = "3rdparty"
+    identifier = "tutorials"
 
 #🟦 Column 2 — Dropdowns Under ALM Mag
 
@@ -174,18 +174,32 @@ mainSections = ["posts"]
 #🟦 Column 2 — Dropdowns Under Personal Improvement
 
   [[menu.main]]
+    name = "Personal Improvement"
+    url = "/personal-improvement/personal/"
+    parent = "personal-improvement"
+    weight = 1
+    identifier = "personal"
+
+  [[menu.main]]
+    name = "Resume"
+    url = "/personal-improvement/resume/"
+    parent = "personal-improvement"
+    weight = 2
+    identifier = "resume"
+
+  [[menu.main]]
+    name = "LinkedIn"
+    url = "/personal-improvement/li/"
+    parent = "personal-improvement"
+    weight = 3
+    identifier = "li"
+
+  [[menu.main]]
     name = "Managerial"
     url = "/personal-improvement/managerial/"
     parent = "personal-improvement"
-    weight = 1
+    weight = 4
     identifier = "managerial"
-
-  [[menu.main]]
-    name = "Resume/LinkedIn"
-    url = "/personal-improvement/resumeli/"
-    parent = "personal-improvement"
-    weight = 2
-    identifier = "resumeli"
 
 #🟦 Column 2 — Dropdowns Under Posts/Blogs
 
@@ -195,25 +209,25 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Platform"
-    url = "/topics/environment/Platform/"
+    url = "/it/environment/Platform/"
     parent = "environment"
     weight = 1
 
   [[menu.main]]
     name = "Networks/VMs"
-    url = "/topics/environment/networks/"
+    url = "/it/environment/networks/"
     parent = "environment"
     weight = 2
 
   [[menu.main]]
     name = "GitHub"
-    url = "/topics/environment/github/"
+    url = "/it/environment/github/"
     parent = "environment"
     weight = 3
 
   [[menu.main]]
     name = "Cloudflare Pages"
-    url = "/topics/environment/cloudflare/"
+    url = "/it/environment/cloudflare/"
     parent = "environment"
     weight = 4
 
@@ -221,19 +235,19 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Windows"
-    url = "/topics/os/windows/"
+    url = "/it/os/windows/"
     parent = "os"
     weight = 1
 
   [[menu.main]]
     name = "Mac"
-    url = "/topics/os/mac/"
+    url = "/it/os/mac/"
     parent = "os"
     weight = 2
 
   [[menu.main]]
     name = "Linux"
-    url = "/topics/os/linux/"
+    url = "/it/os/linux/"
     parent = "os"
     weight = 3
 
@@ -241,19 +255,19 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "ChatBots"
-    url = "/topics/ai/chatbots/"
+    url = "/it/ai/chatbots/"
     parent = "ai"
     weight = 1
 
   [[menu.main]]
     name = "Agents"
-    url = "/topics/ai/agents/"
+    url = "/it/ai/agents/"
     parent = "ai"
     weight = 2
 
   [[menu.main]]
     name = "LLMs"
-    url = "/topics/ai/llms/"
+    url = "/it/ai/llms/"
     parent = "ai"
     weight = 3
 
@@ -261,19 +275,19 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "CI/CD"
-    url = "/topics/devops/cicd/"
+    url = "/it/devops/cicd/"
     parent = "devops"
     weight = 1
 
   [[menu.main]]
     name = "GitOps"
-    url = "/topics/devops/gitops/"
+    url = "/it/devops/gitops/"
     parent = "devops"
     weight = 2
 
   [[menu.main]]
     name = "Infrastructure as Code"
-    url = "/topics/devops/iac/"
+    url = "/it/devops/iac/"
     parent = "devops"
     weight = 3
 
@@ -281,25 +295,25 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Azure"
-    url = "/topics/cloud/azure/"
+    url = "/it/cloud/azure/"
     parent = "cloud"
     weight = 1
 
   [[menu.main]]
     name = "AWS"
-    url = "/topics/cloud/aws/"
+    url = "/it/cloud/aws/"
     parent = "cloud"
     weight = 2
 
   [[menu.main]]
     name = "GCP"
-    url = "/topics/cloud/gcp/"
+    url = "/it/cloud/gcp/"
     parent = "cloud"
     weight = 3
 
   [[menu.main]]
     name = "Oracle"
-    url = "/topics/cloud/oracle/"
+    url = "/it/cloud/oracle/"
     parent = "cloud"
     weight = 4
 
@@ -307,19 +321,19 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Code"
-    url = "/topics/security/code/"
+    url = "/it/security/code/"
     parent = "security"
     weight = 1
 
   [[menu.main]]
     name = "Platform"
-    url = "/topics/security/platform/"
+    url = "/it/security/platform/"
     parent = "security"
     weight = 2
 
   [[menu.main]]
     name = "AI"
-    url = "/topics/security/ai/"
+    url = "/it/security/ai/"
     parent = "security"
     weight = 3
 
@@ -327,19 +341,19 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Terraform"
-    url = "/topics/iac/terraform/"
+    url = "/it/iac/terraform/"
     parent = "iac"
     weight = 1
 
   [[menu.main]]
     name = "ARM"
-    url = "/topics/iac/arm/"
+    url = "/it/iac/arm/"
     parent = "iac"
     weight = 2
 
   [[menu.main]]
     name = "Bicep"
-    url = "/topics/iac/bicep/"
+    url = "/it/iac/bicep/"
     parent = "iac"
     weight = 3
 
@@ -347,46 +361,50 @@ mainSections = ["posts"]
 
   [[menu.main]]
     name = "Docker"
-    url = "/topics/containers/docker/"
+    url = "/it/containers/docker/"
     parent = "containers"
     weight = 1
 
   [[menu.main]]
     name = "Kubernetes"
-    url = "/topics/containers/kubernetes/"
+    url = "/it/containers/kubernetes/"
     parent = "containers"
     weight = 2
+
+#🟦 Column 3 — Deep Dropdowns Under Tools & Apps
+
+  [[menu.main]]
+    name = "HUGO"
+    url = "/it/tools-apps/hugo/"
+    parent = "tools-apps"
+    weight = 1
+
+  [[menu.main]]
+    name = "TiddlyWiki"
+    url = "/it/tools-apps/tiddlywiki/"
+    parent = "tools-apps"
+    weight = 2
+
+  [[menu.main]]
+    name = "[potentially many]"
+    url = "/it/tools-apps/many/"
+    parent = "tools-apps"
+    weight = 3
 
 #🟦 Column 3 — Deep Dropdowns Under Tutorials
 
   [[menu.main]]
     name = "[potentially many]"
-    url = "/topics/tutorials/many/"
+    url = "/it/tutorials/many/"
     parent = "tutorials"
     weight = 1
+	
+#🟦 Column 3 — Deep Dropdowns Under Personal
 
-#🟦 Column 3 — Deep Dropdowns Under 3rdparty
+#🟦 Column 3 — Deep Dropdowns Under Resume
 
-  [[menu.main]]
-    name = "HUGO"
-    url = "/topics/3rdparty/hugo/"
-    parent = "3rdparty"
-    weight = 1
-
-  [[menu.main]]
-    name = "TiddlyWiki"
-    url = "/topics/3rdparty/tiddlywiki/"
-    parent = "3rdparty"
-    weight = 2
-
-  [[menu.main]]
-    name = "[potentially many]"
-    url = "/topics/3rdparty/many/"
-    parent = "3rdparty"
-    weight = 3
+#🟦 Column 3 — Deep Dropdowns Under LinkedIn
 
 #🟦 Column 3 — Deep Dropdowns Under Managerial
-
-#🟦 Column 3 — Deep Dropdowns Under Resume/LinkedIn
 
 #🟦 Column 3 — Deep Dropdowns Under Opinion/research
