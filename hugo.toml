@@ -32,7 +32,7 @@ mainSections = ["posts"]
     identifier = "anthologyatelier"
 
   [[menu.main]]
-    name = "IT - Information Technology"
+    name = "IT - Info. Tech."
     url = "/it/"
     weight = 2
     identifier = "it"
@@ -44,10 +44,10 @@ mainSections = ["posts"]
     weight = 3 
 
  [[menu.main]]
-    name = "Personal Improvement"
-    url = "/personal-improvement/"
+    name = "Improvement"
+    url = "/improvement/"
     weight = 4
-    identifier = "personal-improvement"
+    identifier = "improvement"
 
   [[menu.main]]
     name = "Posts / Blog"
@@ -171,33 +171,33 @@ mainSections = ["posts"]
     weight = 5
     identifier = "issue-5"
 
-#🟦 Column 2 — Dropdowns Under Personal Improvement
+#🟦 Column 2 — Dropdowns Under Improvement
 
   [[menu.main]]
     name = "Personal Improvement"
-    url = "/personal-improvement/personal/"
-    parent = "personal-improvement"
+    url = "/improvement/personal/"
+    parent = "improvement"
     weight = 1
     identifier = "personal"
 
   [[menu.main]]
     name = "Resume"
-    url = "/personal-improvement/resume/"
-    parent = "personal-improvement"
+    url = "/improvement/resume/"
+    parent = "improvement"
     weight = 2
     identifier = "resume"
 
   [[menu.main]]
     name = "LinkedIn"
-    url = "/personal-improvement/li/"
-    parent = "personal-improvement"
+    url = "/improvement/li/"
+    parent = "improvement"
     weight = 3
     identifier = "li"
 
   [[menu.main]]
     name = "Managerial"
-    url = "/personal-improvement/managerial/"
-    parent = "personal-improvement"
+    url = "/improvement/managerial/"
+    parent = "improvement"
     weight = 4
     identifier = "managerial"
 

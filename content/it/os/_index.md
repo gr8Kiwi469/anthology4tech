@@ -1,7 +1,7 @@
 ---
 title: "OS"
 description: ""
-tags: []
+tags: ["windows", "mac", "linux"]
 ---
 
 CONSTRUCTION ZONE
