@@ -15,8 +15,8 @@
 
   
   
-    <title>AI &middot; Anthology4Tech</title>
-    <meta name="title" content="AI &middot; Anthology4Tech">
+    <title>Tutorials &middot; Anthology4Tech</title>
+    <meta name="title" content="Tutorials &middot; Anthology4Tech">
   
 
   
@@ -31,16 +31,14 @@
     
   
   
-    <meta name="description" content="AI is transforming development workflows. This section covers practical AI tooling, automation strategies, and applied machine learning concepts.">
   
   
   
-  
-  <link rel="canonical" href="https://anthology4tech.com/it/ai/">
+  <link rel="canonical" href="https://anthology4tech.com/topics/tutorials/">
   
   
     
-      <link rel="alternate" type="application/rss+xml" href="/it/ai/index.xml" title="Anthology4Tech" />
+      <link rel="alternate" type="application/rss+xml" href="/topics/tutorials/index.xml" title="Anthology4Tech" />
   
 
   
@@ -68,17 +66,17 @@
   
 
   
-  <meta property="og:url" content="https://anthology4tech.com/it/ai/">
+  <meta property="og:url" content="https://anthology4tech.com/topics/tutorials/">
 	<meta property="og:site_name" content="Anthology4Tech">
-	<meta property="og:title" content="AI">
-	<meta property="og:description" content="AI is transforming development workflows. This section covers practical AI tooling, automation strategies, and applied machine learning concepts.">
+	<meta property="og:title" content="Tutorials">
+	<meta property="og:description" content="CONSTRUCTION ZONE">
 	<meta property="og:locale" content="en_us">
 	<meta property="og:type" content="website">
 
   
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="AI">
-	<meta name="twitter:description" content="AI is transforming development workflows. This section covers practical AI tooling, automation strategies, and applied machine learning concepts.">
+	<meta name="twitter:title" content="Tutorials">
+	<meta name="twitter:description" content="CONSTRUCTION ZONE">
 
   
   
@@ -233,12 +231,12 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "IT - Info. Tech.",
-    "name": "AI",
-    "headline": "AI",
-    "description": "AI is transforming development workflows. This section covers practical AI tooling, automation strategies, and applied machine learning concepts.",
+    "articleSection": "Topics",
+    "name": "Tutorials",
+    "headline": "Tutorials",
+    
     "inLanguage": "en-us",
-    "url" : "https://anthology4tech.com/it/ai/",
+    "url" : "https://anthology4tech.com/topics/tutorials/",
     "author" : {
       "@type": "Person",
       "name": "Keith Denham",
@@ -253,8 +251,8 @@
     
     
     
-    "mainEntityOfPage": "https://anthology4tech.com/it/ai/",
-    "wordCount": "10"
+    "mainEntityOfPage": "https://anthology4tech.com/topics/tutorials/",
+    "wordCount": "2"
   }]
   </script>
 
@@ -328,12 +326,12 @@
         target="_blank"
       
       class="flex items-center bf-icon-color-hover"
-      aria-label="Anthology Atelier"
+      aria-label="Anthologyatelier"
       title="">
       
       
         <span class="text-base font-medium break-normal">
-          Anthology Atelier
+          Anthologyatelier
         </span>
       
     </a>
@@ -346,15 +344,15 @@
       <div class="cursor-pointer flex items-center">
         <a
           
-            href="/it/"
+            href="/topics/"
             
           
-          aria-label="IT - Info. Tech."
+          aria-label="IT / Topics"
           class="flex items-center text-base font-medium bf-icon-color-hover"
           title="">
           
           <span class="text-bg font-bg break-normal" title="">
-            IT - Info. Tech.
+            IT / Topics
           </span>
           <span>
             <span class="relative block icon"><svg
@@ -378,7 +376,7 @@
           <div class="flex flex-col space-y-3">
             
               <a
-                href="/it/environment/"
+                href="/topics/environment/"
                 
                 aria-label="Environment"
                 class="flex items-center bf-icon-color-hover">
@@ -389,7 +387,7 @@
               </a>
             
               <a
-                href="/it/os/"
+                href="/topics/os/"
                 
                 aria-label="OS"
                 class="flex items-center bf-icon-color-hover">
@@ -400,7 +398,7 @@
               </a>
             
               <a
-                href="/it/ai/"
+                href="/topics/ai/"
                 
                 aria-label="AI"
                 class="flex items-center bf-icon-color-hover">
@@ -411,7 +409,7 @@
               </a>
             
               <a
-                href="/it/devops/"
+                href="/topics/devops/"
                 
                 aria-label="DevOps / ALM"
                 class="flex items-center bf-icon-color-hover">
@@ -422,7 +420,7 @@
               </a>
             
               <a
-                href="/it/cloud/"
+                href="/topics/cloud/"
                 
                 aria-label="Cloud"
                 class="flex items-center bf-icon-color-hover">
@@ -433,7 +431,7 @@
               </a>
             
               <a
-                href="/it/security/"
+                href="/topics/security/"
                 
                 aria-label="Security"
                 class="flex items-center bf-icon-color-hover">
@@ -444,7 +442,7 @@
               </a>
             
               <a
-                href="/it/iac/"
+                href="/topics/iac/"
                 
                 aria-label="IaC"
                 class="flex items-center bf-icon-color-hover">
@@ -455,7 +453,7 @@
               </a>
             
               <a
-                href="/it/containers/"
+                href="/topics/containers/"
                 
                 aria-label="Containers"
                 class="flex items-center bf-icon-color-hover">
@@ -466,24 +464,24 @@
               </a>
             
               <a
-                href="/it/tools-apps/"
-                
-                aria-label="Tools & Apps"
-                class="flex items-center bf-icon-color-hover">
-                
-                <span class="text-sm font-sm" title="">
-                  Tools & Apps
-                </span>
-              </a>
-
-              <a
-                href="/it/tutorials/"
+                href="/topics/tutorials/"
                 
                 aria-label="Tutorials"
                 class="flex items-center bf-icon-color-hover">
                 
                 <span class="text-sm font-sm" title="">
                   Tutorials
+                </span>
+              </a>
+            
+              <a
+                href="/topics/3rdparty/"
+                
+                aria-label="3rd Party Tools/Apps"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  3rd Party Tools/Apps
                 </span>
               </a>
             
@@ -599,7 +597,7 @@
       <div class="cursor-pointer flex items-center">
         <a
           
-            href="/improvement/"
+            href="/personal-improvement/"
             
           
           aria-label="Personal Improvement"
@@ -631,46 +629,24 @@
           <div class="flex flex-col space-y-3">
             
               <a
-                href="/improvement/personal/"
-                
-                aria-label="Personal"
-                class="flex items-center bf-icon-color-hover">
-                
-                <span class="text-sm font-sm" title="">
-                  Personal
-                </span>
-              </a>
-            
-              <a
-                href="/improvement/resume/"
-                
-                aria-label="Resume"
-                class="flex items-center bf-icon-color-hover">
-                
-                <span class="text-sm font-sm" title="">
-                  Resume
-                </span>
-              </a> 
-           
-              <a
-                href="/improvement/li/"
-                
-                aria-label="LinkedIn"
-                class="flex items-center bf-icon-color-hover">
-                
-                <span class="text-sm font-sm" title="">
-                  LinkedIn
-                </span>
-              </a>
-            
-              <a
-                href="/improvement/managerial/"
+                href="/personal-improvement/managerial/"
                 
                 aria-label="Managerial"
                 class="flex items-center bf-icon-color-hover">
                 
                 <span class="text-sm font-sm" title="">
                   Managerial
+                </span>
+              </a>
+            
+              <a
+                href="/personal-improvement/resumeli/"
+                
+                aria-label="Resume/LinkedIn"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="">
+                  Resume/LinkedIn
                 </span>
               </a>
             
@@ -815,14 +791,14 @@
     <div class="px-2">
       <a
         href="https://anthologyatelier.com/"
-        aria-label="Anthology Atelier"
+        aria-label="Anthologyatelier"
         
           target="_blank"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
         <span title="" class="text-2xl font-bold tracking-tight">
-          Anthology Atelier
+          Anthologyatelier
         </span>
         
       </a>
@@ -833,17 +809,17 @@
     
     <div class="px-2">
       <a
-        href="/it/"
-        aria-label="IT - Info. Tech."
+        href="/topics/"
+        aria-label="IT / Topics"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
         <span title="" class="text-2xl font-bold tracking-tight">
-          IT - Info. Tech.
+          IT / Topics
         </span>
         
           <label
-            for="fullscreen-submenu-it"
+            for="fullscreen-submenu-topics"
             class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
             <span class="relative block icon"><svg
   xmlns="http://www.w3.org/2000/svg"
@@ -863,7 +839,7 @@
       </a>
 
       
-        <input checked type="checkbox" id="fullscreen-submenu-it" autocomplete="off" class="hidden peer/full">
+        <input checked type="checkbox" id="fullscreen-submenu-topics" autocomplete="off" class="hidden peer/full">
 
         <div
           class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
@@ -871,7 +847,7 @@
             <div class="ms-7 mt-4">
               
                 <a
-                  href="/it/environment/"
+                  href="/topics/environment/"
                   aria-label="Environment"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -882,7 +858,7 @@
                 </a>
               
                 <a
-                  href="/it/os/"
+                  href="/topics/os/"
                   aria-label="OS"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -893,7 +869,7 @@
                 </a>
               
                 <a
-                  href="/it/ai/"
+                  href="/topics/ai/"
                   aria-label="AI"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -904,7 +880,7 @@
                 </a>
               
                 <a
-                  href="/it/devops/"
+                  href="/topics/devops/"
                   aria-label="DevOps / ALM"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -915,7 +891,7 @@
                 </a>
               
                 <a
-                  href="/it/cloud/"
+                  href="/topics/cloud/"
                   aria-label="Cloud"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -926,7 +902,7 @@
                 </a>
               
                 <a
-                  href="/it/security/"
+                  href="/topics/security/"
                   aria-label="Security"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -937,7 +913,7 @@
                 </a>
               
                 <a
-                  href="/it/iac/"
+                  href="/topics/iac/"
                   aria-label="IaC"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -948,7 +924,7 @@
                 </a>
               
                 <a
-                  href="/it/containers/"
+                  href="/topics/containers/"
                   aria-label="Containers"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -959,24 +935,24 @@
                 </a>
               
                 <a
-                  href="/it/tools-apps/"
-                  aria-label="Tools & Apps"
-                  
-                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-                  
-                  <span title="" class="text-lg">
-                    Tools & Apps
-                  </span>
-                </a>
-              
-                <a
-                  href="/it/tutorials/"
+                  href="/topics/tutorials/"
                   aria-label="Tutorials"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
                   
                   <span title="" class="text-lg">
                     Tutorials
+                  </span>
+                </a>
+              
+                <a
+                  href="/topics/3rdparty/"
+                  aria-label="3rd Party Tools/Apps"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    3rd Party Tools/Apps
                   </span>
                 </a>
               
@@ -1090,7 +1066,7 @@
     
     <div class="px-2">
       <a
-        href="/improvement/"
+        href="/personal-improvement/"
         aria-label="Personal Improvement"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -1100,7 +1076,7 @@
         </span>
         
           <label
-            for="fullscreen-submenu-improvement"
+            for="fullscreen-submenu-personal-improvement"
             class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
             <span class="relative block icon"><svg
   xmlns="http://www.w3.org/2000/svg"
@@ -1120,7 +1096,7 @@
       </a>
 
       
-        <input checked type="checkbox" id="fullscreen-submenu-improvement" autocomplete="off" class="hidden peer/full">
+        <input checked type="checkbox" id="fullscreen-submenu-personal-improvement" autocomplete="off" class="hidden peer/full">
 
         <div
           class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
@@ -1128,46 +1104,24 @@
             <div class="ms-7 mt-4">
               
                 <a
-                  href="/improvement/personal/"
-                  aria-label="Personal"
-                  
-                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-                  
-                  <span title="" class="text-lg">
-                    Personal
-                  </span>
-                </a>
-              
-                <a
-                  href="/improvement/resume/"
-                  aria-label="Resume"
-                  
-                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-                  
-                  <span title="" class="text-lg">
-                    Resume
-                  </span>
-                </a>
-              
-                <a
-                  href="/improvement/li/"
-                  aria-label="LinkedIn"
-                  
-                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-                  
-                  <span title="" class="text-lg">
-                    LinkedIn
-                  </span>
-                </a>
-              
-                <a
-                  href="/improvement/managerial/"
+                  href="/personal-improvement/managerial/"
                   aria-label="Managerial"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
                   
                   <span title="" class="text-lg">
                     Managerial
+                  </span>
+                </a>
+              
+                <a
+                  href="/personal-improvement/resumeli/"
+                  aria-label="Resume/LinkedIn"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="" class="text-lg">
+                    Resume/LinkedIn
                   </span>
                 </a>
               
@@ -1252,7 +1206,7 @@
   <header>
     
       <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        AI
+        Tutorials
       </h1>
       <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -1293,7 +1247,6 @@
     
     <div class="min-w-0 min-h-0 max-w-prose w-full">
       <p>CONSTRUCTION ZONE</p>
-      <p>There are no articles to list here yet.</p>
 
     </div>
   </section>

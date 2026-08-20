@@ -1,5 +1,5 @@
 ---
-title: "3rd Party Tools & Apps"
+title: "Tools & Apps"
 description: ""
 ---
 
