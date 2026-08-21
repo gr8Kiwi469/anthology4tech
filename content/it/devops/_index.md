@@ -1,14 +1,18 @@
----
+----
 title: "DevOps"
 description: "DevOps brings together development and operations through automation, culture, and continuous improvement. This section covers GitOps, CI/CD pipelines, platform engineering, and delivery workflows."
 tags: ["ado", "gitops", "ci-cd", "pipeline-security"]
 type: "section"
+layout: "section"
 ---
 
-## 🔧 DevOps
+# 🔧 DevOps
+
+## Table of Contents
+
+UNDER CONSTRUCTION
 
 <ul style="line-height: 1.5;">
-
   {{ range .Pages }}
     <li>
       🔹 <a href="{{ .RelPermalink }}" title="{{ .Params.description }}">
@@ -16,7 +20,6 @@ type: "section"
       </a>
     </li>
   {{ end }}
-
 </ul>
 
 ---
@@ -29,10 +32,11 @@ DevOps brings together development and operations through automation, pipelines,
 - GitOps workflows  
 - Infrastructure automation  
 - Engineering culture patterns  
-- Deployment strategies  
+- Deployment strategies
 
 
 ###---
 ###title: "DevOps"
 ###description: "Pipelines, GitOps, CI/CD, automation, and engineering culture."tags: ["ado", "gitops", "ci-cd", "pipeline-security"]
+###description: "DevOps brings together development and operations through automation, culture, and continuous improvement. This section ###covers GitOps, CI/CD pipelines, platform engineering, and delivery workflows."
 ###---
