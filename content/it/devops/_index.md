@@ -10,8 +10,6 @@ layout: "section"
 
 ## Table of Contents
 
-UNDER CONSTRUCTION
-
 <ul style="line-height: 1.5;">
   {{ range .Pages }}
     <li>
