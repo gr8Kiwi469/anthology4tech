@@ -1,11 +1,10 @@
 ---
 title: "DevOps"
 description: "DevOps brings together development and operations through automation, culture, and continuous improvement. This section covers GitOps, CI/CD pipelines, platform engineering, and delivery workflows."
-###Removed - tags: ["ado", "gitops", "ci-cd", "pipeline-security"]
 type: "section"
 layout: "section"
 cascade:
-  _target: false
+  target: false
 ---
 
 # 🔧 DevOps
