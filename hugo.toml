@@ -3,7 +3,10 @@ locale = 'en-us'
 title = 'Anthology4Tech'
 theme = "blowfish-2"
 
-mainSections = ["posts"]
+###mainSections = ["posts"]
+###mainSections = ["posts", "it", "environment", "os", "ai", "devops", "cloud", "security", "iac", "containers", "tools-apps", "tutorials"]
+mainSections = ["posts", "it"]
+
 
 [params]
   toc = true
@@ -61,7 +64,7 @@ mainSections = ["posts"]
     weight = 6
     identifier = "about"
 
-#🟦 Column 2 — Dropdowns Under Topics
+#🟦 Column 2 — Dropdowns Under IT - Info. Tech.
 
   [[menu.main]]
     name = "Environment"
