@@ -4,7 +4,8 @@ description: "DevOps brings together development and operations through automati
 ###Removed - tags: ["ado", "gitops", "ci-cd", "pipeline-security"]
 type: "section"
 layout: "section"
-cascade: false
+cascade:
+  _target: false
 ---
 
 # 🔧 DevOps
