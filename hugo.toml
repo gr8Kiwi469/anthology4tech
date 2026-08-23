@@ -3,6 +3,9 @@ locale = 'en-us'
 title = 'Anthology4Tech'
 theme = "blowfish-2"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 ###mainSections = ["posts"]
 ###mainSections = ["posts", "it", "environment", "os", "ai", "devops", "cloud", "security", "iac", "containers", "tools-apps", "tutorials"]
 mainSections = ["posts", "it"]
