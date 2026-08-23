@@ -1,25 +1,11 @@
 ---
 title: "DevOps"
-description: "DevOps brings together development and operations through automation, culture, and continuous improvement. This section covers GitOps, CI/CD pipelines, platform engineering, and delivery workflows."
-type: "section"
-layout: "section"
-cascade:
-  target: false
+description: "Automation, pipelines, GitOps, CI/CD, and modern delivery practices."
 ---
 
-# 🔧 DevOps
+## DevOps Topics
 
-## Table of Contents
-
-<ul style="line-height: 1.5;">
-  {{ range .Pages }}
-    <li>
-      🔹 <a href="{{ .RelPermalink }}" title="{{ .Params.description }}">
-        {{ .Title }}
-      </a>
-    </li>
-  {{ end }}
-</ul>
+{{< toc-tree >}}
 
 ---
 
