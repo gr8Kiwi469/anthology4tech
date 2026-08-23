@@ -1,10 +1,9 @@
 <ul>
-  {{ range .Page.Sections }}
+  {{ range .Parent.Sections }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 
-  {{ range .Page.Pages }}
+  {{ range .Parent.Pages }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
-
