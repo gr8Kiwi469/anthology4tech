@@ -92,8 +92,7 @@ mainSections = ["posts", "it"]
 
   [[menu.main]]
     name = "DevOps / ALM"
-###    url = "/it/devops/"
-    url = "/it/devops-section/"
+    url = "/it/devops/"
     parent = "it"
     weight = 4
     identifier = "devops"
