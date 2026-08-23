@@ -1,8 +1,4 @@
 <ul>
-  {{ range .Parent.Sections }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-  {{ end }}
-
   {{ range .Parent.Pages }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}
