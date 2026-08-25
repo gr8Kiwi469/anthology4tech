@@ -1,10 +1,10 @@
 ---
-title: "OS"
+title: "Personal Improvement"
 description: ""
-tags: ["os", "windows", "mac", "linux"]
+tags: ["personal", ""]
 ---
 
-## OS Topics
+## Personal Improvement Topics
 
 {{< toc-tree >}}
 

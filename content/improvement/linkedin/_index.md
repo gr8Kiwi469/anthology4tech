@@ -1,10 +1,10 @@
 ---
-title: "OS"
+title: "LinkedIn"
 description: ""
-tags: ["os", "windows", "mac", "linux"]
+tags: ["linkedin", ""]
 ---
 
-## OS Topics
+## LinkedIn Topics
 
 {{< toc-tree >}}
 

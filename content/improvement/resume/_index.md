@@ -1,10 +1,10 @@
 ---
-title: "OS"
+title: "Resume"
 description: ""
-tags: ["os", "windows", "mac", "linux"]
+tags: ["resume", ""]
 ---
 
-## OS Topics
+## Resume Topics
 
 {{< toc-tree >}}
 

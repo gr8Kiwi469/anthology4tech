@@ -1,10 +1,10 @@
 ---
-title: "OS"
+title: "Managerial"
 description: ""
-tags: ["os", "windows", "mac", "linux"]
+tags: ["managerial", ""]
 ---
 
-## OS Topics
+## Managerial Topics
 
 {{< toc-tree >}}
 
