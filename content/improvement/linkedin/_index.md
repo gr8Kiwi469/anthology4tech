@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: ""
+description: "Business social page, work history, blog posts"
 tags: ["linkedin"]
 ---
 
