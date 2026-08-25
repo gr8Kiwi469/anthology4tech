@@ -12,12 +12,3 @@ CONSTRUCTION ZONE
 
 There are no articles to list here yet.
 ---
-
-## Cloud
-##type: "section"
-##<ul>
-##  {{ range .Pages }}
-##    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-##  {{ end }}
-##</ul>
-

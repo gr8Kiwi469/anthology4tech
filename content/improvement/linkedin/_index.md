@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn"
 description: ""
-tags: ["linkedin", ""]
+tags: ["linkedin"]
 ---
 
 ## LinkedIn Topics
