@@ -2,62 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ALM Mag on Anthology4Tech</title>
-    <link>https://anthology4tech.com/alm-mag/</link>
+    <link>http://localhost:1313/alm-mag/</link>
     <description>Recent content in ALM Mag on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
-    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
-    <copyright>© 2026 Keith Denham</copyright>
-    <atom:link href="https://anthology4tech.com/alm-mag/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <atom:link href="http://localhost:1313/alm-mag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>https://anthology4tech.com/alm-mag/issue-1/</link>
+      <title>ALM Mag – Issue 1 (2012)</title>
+      <link>http://localhost:1313/alm-mag/issue-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/alm-mag/issue-1/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 1 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The first issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-1.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-1.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://anthology4tech.com/alm-mag/issue-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/alm-mag/issue-3/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 3 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The third issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-3.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-3.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://anthology4tech.com/alm-mag/issue-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/alm-mag/issue-4/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 4 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The fourth issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-4.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-4.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://anthology4tech.com/alm-mag/issue-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/alm-mag/issue-5/</guid>
-      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;ALM Mag – Issue 5 (2012)&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;description: &amp;ldquo;The fifth issue of ALM Mag, exploring early ALM tooling and workflow thinking.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;pdf: &amp;ldquo;/alm-mag/ALM-Mag-Issue-5.pdf&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;layout: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;type: &amp;ldquo;alm-issue&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;[Open the PDF](/alm-mag/ALM-Mag-Issue-5.pdf)&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/alm-mag/issue-1/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ALM Mag – Issue 2 (2012)</title>
-      <link>https://anthology4tech.com/alm-mag/issue-2/</link>
+      <link>http://localhost:1313/alm-mag/issue-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/alm-mag/issue-2/</guid>
-      <description>&lt;p&gt;Download the full issue:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-2.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/alm-mag/issue-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Download or Open the full issue:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ALM Mag – Issue 3 (2012)</title>
+      <link>http://localhost:1313/alm-mag/issue-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/alm-mag/issue-3/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-3.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-3.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ALM Mag – Issue 4 (2012)</title>
+      <link>http://localhost:1313/alm-mag/issue-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/alm-mag/issue-4/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-4.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-4.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ALM Mag – Issue 5 (2012)</title>
+      <link>http://localhost:1313/alm-mag/issue-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/alm-mag/issue-5/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-5.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-5.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     

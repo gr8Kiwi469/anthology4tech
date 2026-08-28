@@ -2,111 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Anthology4Tech</title>
-    <link>https://anthology4tech.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
-    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
-    <copyright>© 2026 Keith Denham</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://anthology4tech.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI in Engineering Workflows</title>
-      <link>https://anthology4tech.com/posts/ai-in-engineering/</link>
+      <link>http://localhost:1313/posts/ai-in-engineering/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/ai-in-engineering/</guid>
+      
+      <guid>http://localhost:1313/posts/ai-in-engineering/</guid>
       <description>How AI is reshaping engineering workflows and developer productivity.</description>
       
     </item>
     
     <item>
       <title>DevOps Foundations</title>
-      <link>https://anthology4tech.com/posts/devops-foundations/</link>
+      <link>http://localhost:1313/posts/devops-foundations/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/devops-foundations/</guid>
+      
+      <guid>http://localhost:1313/posts/devops-foundations/</guid>
       <description>A practical overview of DevOps principles and why they matter.</description>
       
     </item>
     
     <item>
       <title>Engineering Leadership Essentials</title>
-      <link>https://anthology4tech.com/posts/engineering-leadership/</link>
+      <link>http://localhost:1313/posts/engineering-leadership/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/engineering-leadership/</guid>
+      
+      <guid>http://localhost:1313/posts/engineering-leadership/</guid>
       <description>Key principles for leading engineering teams effectively.</description>
       
     </item>
     
     <item>
       <title>Growth for Engineers</title>
-      <link>https://anthology4tech.com/posts/growth-for-engineers/</link>
+      <link>http://localhost:1313/posts/growth-for-engineers/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/growth-for-engineers/</guid>
+      
+      <guid>http://localhost:1313/posts/growth-for-engineers/</guid>
       <description>How engineers can build long-term career resilience.</description>
       
     </item>
     
     <item>
       <title>Platform Architecture Basics</title>
-      <link>https://anthology4tech.com/posts/platform-basics/</link>
+      <link>http://localhost:1313/posts/platform-basics/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/platform-basics/</guid>
+      
+      <guid>http://localhost:1313/posts/platform-basics/</guid>
       <description>A simple introduction to cloud-native architecture patterns.</description>
       
     </item>
     
     <item>
       <title>Security First</title>
-      <link>https://anthology4tech.com/posts/security-first/</link>
+      <link>http://localhost:1313/posts/security-first/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/security-first/</guid>
+      
+      <guid>http://localhost:1313/posts/security-first/</guid>
       <description>Why security must be built into every stage of development.</description>
       
     </item>
     
     <item>
       <title>Tools That Matter</title>
-      <link>https://anthology4tech.com/posts/tools-that-matter/</link>
+      <link>http://localhost:1313/posts/tools-that-matter/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/tools-that-matter/</guid>
+      
+      <guid>http://localhost:1313/posts/tools-that-matter/</guid>
       <description>A look at essential tools that improve engineering productivity.</description>
       
     </item>
     
     <item>
       <title>Understanding GitOps</title>
-      <link>https://anthology4tech.com/posts/understanding-gitops/</link>
+      <link>http://localhost:1313/posts/understanding-gitops/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/understanding-gitops/</guid>
+      
+      <guid>http://localhost:1313/posts/understanding-gitops/</guid>
       <description>A practical introduction to GitOps workflows.</description>
       
     </item>
     
     <item>
       <title>What ALM Really Means</title>
-      <link>https://anthology4tech.com/posts/alm-overview/</link>
+      <link>http://localhost:1313/posts/alm-overview/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/alm-overview/</guid>
+      
+      <guid>http://localhost:1313/posts/alm-overview/</guid>
       <description>Understanding application lifecycle management from planning to delivery.</description>
       
     </item>
     
     <item>
       <title>Hello Tech</title>
-      <link>https://anthology4tech.com/posts/hello-tech/</link>
+      <link>http://localhost:1313/posts/hello-tech/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/hello-tech/</guid>
+      
+      <guid>http://localhost:1313/posts/hello-tech/</guid>
       <description>First post for Anthology4Tech.</description>
       
     </item>

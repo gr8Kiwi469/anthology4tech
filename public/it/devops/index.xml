@@ -2,14 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps on Anthology4Tech</title>
-    <link>https://anthology4tech.com/topics/devops/</link>
+    <link>http://localhost:1313/it/devops/</link>
     <description>Recent content in DevOps on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
-    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
-    <copyright>© 2026 Keith Denham</copyright>
-    <atom:link href="https://anthology4tech.com/topics/devops/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <atom:link href="http://localhost:1313/it/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DevOps Test Page</title>
+      <link>http://localhost:1313/it/devops/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/devops/test/</guid>
+      <description>&lt;p&gt;This is a test page.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hello DevOps</title>
+      <link>http://localhost:1313/it/devops/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/devops/hello/</guid>
+      <description>&lt;p&gt;This is a real content page.&lt;br&gt;&#xA;It has actual body text.&lt;br&gt;&#xA;Blowfish will now treat this section as non-empty.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hello-2 DevOps</title>
+      <link>http://localhost:1313/it/devops/hello-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/it/devops/hello-2/</guid>
+      <description>&lt;p&gt;This is a real content page.&lt;br&gt;&#xA;It has actual body text.&lt;br&gt;&#xA;Blowfish will now treat this section as non-empty.&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>

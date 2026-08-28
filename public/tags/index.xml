@@ -2,281 +2,579 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anthology4Tech</title>
-    <link>https://anthology4tech.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
-    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
-    <copyright>© 2026 Keith Denham</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://anthology4tech.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ai</title>
-      <link>https://anthology4tech.com/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/ai/</guid>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Alm</title>
-      <link>https://anthology4tech.com/tags/alm/</link>
+      <link>http://localhost:1313/tags/alm/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/alm/</guid>
+      
+      <guid>http://localhost:1313/tags/alm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Automation</title>
-      <link>https://anthology4tech.com/tags/automation/</link>
+      <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/automation/</guid>
+      
+      <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Aws</title>
-      <link>https://anthology4tech.com/tags/aws/</link>
+      <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/aws/</guid>
+      
+      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Azure</title>
-      <link>https://anthology4tech.com/tags/azure/</link>
+      <link>http://localhost:1313/tags/azure/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/azure/</guid>
+      
+      <guid>http://localhost:1313/tags/azure/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Career</title>
-      <link>https://anthology4tech.com/tags/career/</link>
+      <link>http://localhost:1313/tags/career/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/career/</guid>
+      
+      <guid>http://localhost:1313/tags/career/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloud</title>
-      <link>https://anthology4tech.com/tags/cloud/</link>
+      <link>http://localhost:1313/tags/cloud/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/cloud/</guid>
+      
+      <guid>http://localhost:1313/tags/cloud/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Communication</title>
-      <link>https://anthology4tech.com/tags/communication/</link>
+      <link>http://localhost:1313/tags/communication/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/communication/</guid>
+      
+      <guid>http://localhost:1313/tags/communication/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://anthology4tech.com/tags/culture/</link>
+      <link>http://localhost:1313/tags/culture/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/culture/</guid>
+      
+      <guid>http://localhost:1313/tags/culture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Devops</title>
-      <link>https://anthology4tech.com/tags/devops/</link>
+      <link>http://localhost:1313/tags/devops/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/devops/</guid>
+      
+      <guid>http://localhost:1313/tags/devops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gcp</title>
-      <link>https://anthology4tech.com/tags/gcp/</link>
+      <link>http://localhost:1313/tags/gcp/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/gcp/</guid>
+      
+      <guid>http://localhost:1313/tags/gcp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gitops</title>
-      <link>https://anthology4tech.com/tags/gitops/</link>
+      <link>http://localhost:1313/tags/gitops/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/gitops/</guid>
+      
+      <guid>http://localhost:1313/tags/gitops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Governance</title>
-      <link>https://anthology4tech.com/tags/governance/</link>
+      <link>http://localhost:1313/tags/governance/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/governance/</guid>
+      
+      <guid>http://localhost:1313/tags/governance/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Growth</title>
-      <link>https://anthology4tech.com/tags/growth/</link>
+      <link>http://localhost:1313/tags/growth/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/growth/</guid>
+      
+      <guid>http://localhost:1313/tags/growth/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Identity</title>
-      <link>https://anthology4tech.com/tags/identity/</link>
+      <link>http://localhost:1313/tags/identity/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/identity/</guid>
+      
+      <guid>http://localhost:1313/tags/identity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Leadership</title>
-      <link>https://anthology4tech.com/tags/leadership/</link>
+      <link>http://localhost:1313/tags/leadership/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/leadership/</guid>
+      
+      <guid>http://localhost:1313/tags/leadership/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Learning</title>
-      <link>https://anthology4tech.com/tags/learning/</link>
+      <link>http://localhost:1313/tags/learning/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/learning/</guid>
+      
+      <guid>http://localhost:1313/tags/learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lifecycle</title>
-      <link>https://anthology4tech.com/tags/lifecycle/</link>
+      <link>http://localhost:1313/tags/lifecycle/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/lifecycle/</guid>
+      
+      <guid>http://localhost:1313/tags/lifecycle/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ml</title>
-      <link>https://anthology4tech.com/tags/ml/</link>
+      <link>http://localhost:1313/tags/ml/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/ml/</guid>
+      
+      <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>On-Prem</title>
-      <link>https://anthology4tech.com/tags/on-prem/</link>
+      <link>http://localhost:1313/tags/on-prem/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/on-prem/</guid>
+      
+      <guid>http://localhost:1313/tags/on-prem/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Planning</title>
-      <link>https://anthology4tech.com/tags/planning/</link>
+      <link>http://localhost:1313/tags/planning/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/planning/</guid>
+      
+      <guid>http://localhost:1313/tags/planning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Platforms</title>
-      <link>https://anthology4tech.com/tags/platforms/</link>
+      <link>http://localhost:1313/tags/platforms/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/platforms/</guid>
+      
+      <guid>http://localhost:1313/tags/platforms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>https://anthology4tech.com/tags/productivity/</link>
+      <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/productivity/</guid>
+      
+      <guid>http://localhost:1313/tags/productivity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://anthology4tech.com/tags/security/</link>
+      <link>http://localhost:1313/tags/security/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/security/</guid>
+      
+      <guid>http://localhost:1313/tags/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teams</title>
-      <link>https://anthology4tech.com/tags/teams/</link>
+      <link>http://localhost:1313/tags/teams/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/teams/</guid>
+      
+      <guid>http://localhost:1313/tags/teams/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tools</title>
-      <link>https://anthology4tech.com/tags/tools/</link>
+      <link>http://localhost:1313/tags/tools/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/tools/</guid>
+      
+      <guid>http://localhost:1313/tags/tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://anthology4tech.com/tags/tech/</link>
+      <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/tags/tech/</guid>
+      
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ado</title>
+      <link>http://localhost:1313/tags/ado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ado/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agents</title>
+      <link>http://localhost:1313/tags/agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ai-Do</title>
+      <link>http://localhost:1313/tags/ai-do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai-do/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arm-Templates</title>
+      <link>http://localhost:1313/tags/arm-templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/arm-templates/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bicep</title>
+      <link>http://localhost:1313/tags/bicep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/bicep/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ci-Cd</title>
+      <link>http://localhost:1313/tags/ci-cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ci-cd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Container-Automation</title>
+      <link>http://localhost:1313/tags/container-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/container-automation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/tags/containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/containers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>http://localhost:1313/tags/environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/environment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iaas</title>
+      <link>http://localhost:1313/tags/iaas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/iaas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iac</title>
+      <link>http://localhost:1313/tags/iac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/iac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/tags/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linkedin</title>
+      <link>http://localhost:1313/tags/linkedin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linkedin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>http://localhost:1313/tags/mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine-Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Managerial</title>
+      <link>http://localhost:1313/tags/managerial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/managerial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nist</title>
+      <link>http://localhost:1313/tags/nist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Oracle</title>
+      <link>http://localhost:1313/tags/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/oracle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Os</title>
+      <link>http://localhost:1313/tags/os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/os/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paas</title>
+      <link>http://localhost:1313/tags/paas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/paas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/tags/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/personal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pipeline-Security</title>
+      <link>http://localhost:1313/tags/pipeline-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pipeline-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/tags/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/resume/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Saas</title>
+      <link>http://localhost:1313/tags/saas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/saas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>http://localhost:1313/tags/terraform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/terraform/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tools-Apps</title>
+      <link>http://localhost:1313/tags/tools-apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tools-apps/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>http://localhost:1313/tags/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tutorials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
       
     </item>

@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools &amp; Apps on Anthology4Tech</title>
-    <link>https://anthology4tech.com/it/tools-apps/</link>
+    <link>http://localhost:1313/it/tools-apps/</link>
     <description>Recent content in Tools &amp; Apps on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
-    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
-    <copyright>© 2026 Keith Denham</copyright>
-    <atom:link href="https://anthology4tech.com/it/tools-apps/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <atom:link href="http://localhost:1313/it/tools-apps/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

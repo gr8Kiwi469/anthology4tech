@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Anthology4Tech</title>
-    <link>https://anthology4tech.com/categories/tools/</link>
+    <link>http://localhost:1313/categories/tools/</link>
     <description>Recent content in Tools on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>keith.denham@almensa.com (Keith Denham)</managingEditor>
-    <webMaster>keith.denham@almensa.com (Keith Denham)</webMaster>
-    <copyright>© 2026 Keith Denham</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://anthology4tech.com/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tools That Matter</title>
-      <link>https://anthology4tech.com/posts/tools-that-matter/</link>
+      <link>http://localhost:1313/posts/tools-that-matter/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <author>keith.denham@almensa.com (Keith Denham)</author>
-      <guid>https://anthology4tech.com/posts/tools-that-matter/</guid>
+      
+      <guid>http://localhost:1313/posts/tools-that-matter/</guid>
       <description>A look at essential tools that improve engineering productivity.</description>
       
     </item>

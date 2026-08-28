@@ -1,6 +1,7 @@
 ---
 title: "Disclaimer"
 slug: "disclaimer"
+type: "page"
 ---
 
 **Anthology4Tech is a curated collection of technology‑related articles originally posted by their respective presenters on LinkedIn.**  
