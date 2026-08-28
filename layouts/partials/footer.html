@@ -41,6 +41,15 @@
     <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/disclaimer/">See full Disclaimer.</a>
   </p>
   <div class="flex items-center justify-between">
+  <div class="legal-links text-sm text-neutral-500 dark:text-neutral-400 mb-4">
+    <strong>Legal</strong>
+    <ul class="list-none mt-2 space-y-1">
+      <li><a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/disclaimer/">Disclaimer</a></li>
+      <li><a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/privacy/">Privacy Notice</a></li>
+      <li><a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/attribution/">Attribution</a></li>
+    </ul>
+  </div>
+
     {{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
