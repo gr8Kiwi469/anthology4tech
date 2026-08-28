@@ -76,6 +76,13 @@
             </strong>
           {{ end }}
         </div>
+		<div class="article-disclaimer">
+          <small>
+            Presented as originally posted on LinkedIn. Attribution based on LinkedIn notifications.
+            Anthology4Tech is a curator, not the author.
+            <a href="/disclaimer/">See full Disclaimer.</a>
+          </small>
+        </div>
         {{ if (.Params.showAuthorBottom | default (site.Params.article.showAuthorBottom | default false)) }}
           {{ template "SingleAuthor" . }}
         {{ end }}

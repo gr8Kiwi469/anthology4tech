@@ -34,7 +34,11 @@
     {{ end }}
   {{ end }}
   <div class="flex items-center justify-between">
-    {{/* Copyright */}}
+	{{/* Disclaimer */}}
+    <p class="footer-disclaimer">
+       Content presented as originally posted on LinkedIn. Attribution based on LinkedIn notifications. Anthology4Tech is a curator, not the author. <a href="/disclaimer/">See full Disclaimer.</a>
+    </p>
+	{{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
       <p class="text-sm text-neutral-500 dark:text-neutral-400">
         {{- with replace .Site.Params.copyright "{ year }" now.Year }}
