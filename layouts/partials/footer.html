@@ -1,4 +1,5 @@
 <footer id="site-footer" class="py-10 print:hidden">
+
   {{/* Footer menu */}}
   {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}
@@ -15,11 +16,9 @@
       <nav class="{{ $navClass }}">
         <ul class="{{ $ulClass }}">
           {{ range .Site.Menus.footer }}
-            <li class=" {{ $liClass }}">
-              <a
-                class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center"
-                href="{{ .URL }}"
-                title="{{ .Title }}">
+            <li class="{{ $liClass }}">
+              <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center"
+                 href="{{ .URL }}" title="{{ .Title }}">
                 {{ if .Pre }}
                   <span {{ if and .Pre .Name }}class="mr-1"{{ end }}>
                     {{ partial "icon.html" .Pre }}
@@ -33,65 +32,52 @@
       </nav>
     {{ end }}
   {{ end }}
- 
-  {{/* ADD DISCLAIMER HERE */}}
+
+  {{ if .Site.Params.footer.showThemeAttribution | default false }}
+    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+      ...
+    </p>
+  {{ end }}
+
+  {{/* Micro Disclaimer */}}
   <p class="text-sm text-neutral-500 dark:text-neutral-400">
     Anthology Atelier curates collections of publicly shared technology content.
     Attribution, ownership, and accuracy are governed by the disclaimers on each sub‑site.
     <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/disclaimer/">See full Disclaimer.</a>
   </p>
-  <div class="flex items-center justify-between">
-  <div class="legal-links text-sm text-neutral-500 dark:text-neutral-400 mb-4">
-    <strong>Legal</strong>
-    <ul class="list-none mt-2 space-y-1">
-      <li><a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/disclaimer/">Disclaimer</a></li>
-      <li><a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/privacy/">Privacy Notice</a></li>
-      <li><a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="/attribution/">Attribution</a></li>
-    </ul>
+
+  <div class="legal-links grid grid-cols-1 sm:grid-cols-2 gap-6 text-sm text-neutral-500 dark:text-neutral-400 mb-4">
+
+    <div>
+      <strong>Legal</strong>
+      <ul class="list-none mt-2 space-y-1">
+        <li><a href="/disclaimer/">Disclaimer</a></li>
+        <li><a href="/privacy/">Privacy Notice</a></li>
+        <li><a href="/attribution/">Attribution</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <strong>Explore</strong>
+      <ul class="list-none mt-2 space-y-1">
+        <li><a href="/how-it-works/">How Anthology Works</a></li>
+        <li><a href="/contact/">Contact the Curator</a></li>
+        <li><a href="/promo/">Promo / Introduction</a></li>
+      </ul>
+    </div>
+
   </div>
 
-    {{/* Copyright */}}
-    {{ if .Site.Params.footer.showCopyright | default true }}
-      <p class="text-sm text-neutral-500 dark:text-neutral-400">
-        {{- with replace .Site.Params.copyright "{ year }" now.Year }}
-          {{ . | markdownify }}
-        {{- else }}
-          &copy;
-          {{ now.Format "2006" }}
-          {{ .Site.Params.Author.name | markdownify }}
-        {{- end }}
-      </p>
-    {{ end }}
-
-    {{/* Theme attribution */}}
-    {{ if .Site.Params.footer.showThemeAttribution | default true }}
-      <p class="text-xs text-neutral-500 dark:text-neutral-400">
-        {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-          href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
-        }}
-        {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-          href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>`
-        }}
-        {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
-      </p>
-    {{ end }}
-  </div>
-  {{ if not .Site.Params.disableImageZoom | default true }}
-    <script>
-      mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-        margin: 24,
-        background: "rgba(0,0,0,0.5)",
-        scrollOffset: 0,
-      });
-    </script>
+  {{/* Copyright */}}
+  {{ if .Site.Params.footer.showCopyright | default true }}
+    <p class="text-sm text-neutral-500 dark:text-neutral-400">
+      © {{ now.Year }} Anthology Atelier
+    </p>
   {{ end }}
-  {{/* Extend footer - eg. for extra scripts, etc. */}}
-  <p class="copyright">
-    © {{ now.Year }} Anthology Atelier — Powered by Hugo & Blowfish
-  </p>
+
 </footer>
 
-  {{ if templates.Exists "partials/extend-footer.html" }}
-    {{ partialCached "extend-footer.html" . }}
-  {{ end }}
-</footer>
+{{ if templates.Exists "partials/extend-footer.html" }}
+  {{ partialCached "extend-footer.html" . }}
+{{ end }}
+
