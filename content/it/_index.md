@@ -1,8 +1,10 @@
 ---
 title: "IT - Information Technology"
 description: "Long-form analysis, commentary, and technical insights."
-type: "section"
-layout: "section"
+type: "page"
+layout: "single"
+##type: "section"
+##layout: "section"
 ###type: "page"
 ---
 
