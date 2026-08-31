@@ -22,6 +22,9 @@ mainSections = ["posts", "it"]
   showCategories = true
   showSeries = true
 
+[params.assets]
+customCSS = ["css/custom.css"]
+
 [taxonomies]
   tag = "tags"
   category = "categories"
