@@ -2,11 +2,13 @@
 title: "DevOps"
 description: "Automation, pipelines, GitOps, CI/CD, and modern delivery practices."
 tags: ["devops", "ado", "gitops", "ci-cd", "pipeline-security"]
+toc: true
+type: "page"
+layout: "single"
 ---
+## Table of Contents
 
-## DevOps Topics
-
-{{< toc-tree >}}
+UNDER CONSTRUCTION
 
 ---
 
