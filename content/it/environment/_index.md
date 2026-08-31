@@ -16,5 +16,4 @@ Environment covers on-prem, IaaS, PaaS, and SaaS infrastructure models.
 ### 📂 What You’ll Find Here
 - on-prem  
 - IaaS, PaaS, and SaaS 
-(Content coming soon)
 ---
