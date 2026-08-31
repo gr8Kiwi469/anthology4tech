@@ -2,14 +2,13 @@
 title: "Tools & Apps"
 description: ""
 tags: ["tools-apps", ""]
+toc: true
+type: "page"
+layout: "single"
 ---
+## Table of Contents
 
-## Tools Topics
-
-{{< toc-tree >}}
-
-CONSTRUCTION ZONE
+UNDER CONSTRUCTION
 
 There are no articles to list here yet.
 ---
-

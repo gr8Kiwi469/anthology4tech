@@ -2,7 +2,13 @@
 title: "Environment"
 description: ""
 tags: ["environment", "on-prem", "iaas", "paas", "saas"]
+toc: true
+type: "page"
+layout: "single"
 ---
+## Table of Contents
+
+UNDER CONSTRUCTION
 
 ## Environment Topics
 

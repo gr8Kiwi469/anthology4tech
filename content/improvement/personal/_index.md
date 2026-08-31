@@ -2,13 +2,13 @@
 title: "Personal Improvement"
 description: ""
 tags: ["personal", ""]
+toc: true
+type: "page"
+layout: "single"
 ---
+## Table of Contents
 
-## Personal Improvement Topics
-
-{{< toc-tree >}}
-
-CONSTRUCTION ZONE
+UNDER CONSTRUCTION
 
 There are no articles to list here yet.
 ---

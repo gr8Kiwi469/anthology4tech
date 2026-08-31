@@ -2,14 +2,12 @@
 title: "Tutorials"
 description: ""
 tags: ["tutorials"]
+toc: true
+type: "page"
+layout: "single"
 ---
+## Table of Contents
 
-## Tutorials Topics
-
-{{< toc-tree >}}
-
-CONSTRUCTION ZONE
+UNDER CONSTRUCTION
 ---
-
-
 

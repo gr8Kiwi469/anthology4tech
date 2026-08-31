@@ -2,14 +2,13 @@
 title: "Security"
 description: ""
 tags: ["security", "nist"]
+toc: true
+type: "page"
+layout: "single"
 ---
+## Table of Contents
 
-## Security Topics
-
-{{< toc-tree >}}
-
-CONSTRUCTION ZONE
+UNDER CONSTRUCTION
 
 There are no articles to list here yet.
 ---
-
