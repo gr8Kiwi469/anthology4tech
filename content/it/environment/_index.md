@@ -12,4 +12,7 @@ UNDER CONSTRUCTION
 
 ### 📘 Section Overview
 Environment covers on-prem, IaaS, PaaS, and SaaS infrastructure models.
+
+### 📂 What You’ll Find Here
+*(Content coming soon)*
 ---
