@@ -1,6 +1,9 @@
 /* assets/css/custom.css
    Footer spacing override for Anthology4Tech (Blowfish)
+   Targeted, minimal rules to tighten disclaimer spacing.
 */
+
+/* Target Blowfish legal footer block (disclaimer lines) */
 .footer__legal-text p {
   margin-top: 0.25rem !important;
   margin-bottom: 0.25rem !important;
@@ -8,24 +11,30 @@
   font-size: 0.95rem !important;
   color: inherit !important;
 }
+
 .footer__legal-text p:first-of-type {
   margin-bottom: 0.12rem !important;
   line-height: 1.05 !important;
   font-size: 0.88rem !important;
   opacity: 0.92 !important;
 }
+
+/* Also target the general footer content block as a fallback */
 footer.footer .footer__content p {
   margin-top: 0.25rem !important;
   margin-bottom: 0.25rem !important;
   line-height: 1.2 !important;
   font-size: 0.95rem !important;
 }
+
 footer.footer .footer__content p:first-of-type {
   margin-bottom: 0.12rem !important;
   line-height: 1.05 !important;
   font-size: 0.88rem !important;
   opacity: 0.92 !important;
 }
+
+/* Small safeguard for very small screens */
 @media (max-width: 480px) {
   .footer__legal-text p,
   footer.footer .footer__content p {
