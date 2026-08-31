@@ -10,8 +10,6 @@ layout: "single"
 
 UNDER CONSTRUCTION
 
----
-
 ### 📘 Section Overview
 DevOps brings together development and operations through automation, pipelines, GitOps, and continuous delivery practices.
 
@@ -21,3 +19,4 @@ DevOps brings together development and operations through automation, pipelines,
 - Infrastructure automation  
 - Engineering culture patterns  
 - Deployment strategies
+---
