@@ -1,5 +1,6 @@
-footer p {
+footer.footer p {
     margin-top: 0.25rem;
     margin-bottom: 0.25rem;
     line-height: 1.2;
 }
+
