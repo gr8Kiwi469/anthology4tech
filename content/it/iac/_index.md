@@ -9,11 +9,6 @@ layout: "single"
 ## Table of Contents
 
 UNDER CONSTRUCTION
-## Infrastructure as Cloud - IaC Topics
-
-{{< toc-tree >}}
-
-CONSTRUCTION ZONE
 
 There are no articles to list here yet.
 ---

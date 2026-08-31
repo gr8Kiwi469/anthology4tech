@@ -10,11 +10,6 @@ layout: "single"
 
 UNDER CONSTRUCTION
 
-## Environment Topics
-
-{{< toc-tree >}}
-
----
-
 ### 📘 Section Overview
 Environment covers on-prem, IaaS, PaaS, and SaaS infrastructure models.
+---
