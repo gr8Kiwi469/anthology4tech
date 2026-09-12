@@ -8,14 +8,14 @@
 
   {{ partial "header.html" . }}
 
-  <div class="layout">
+  <div class="page-body layout">
 
     {{/* Optional sidebar — only loads if sidebar.html exists */}}
     {{ if templates.Exists "partials/sidebar.html" }}
       {{ partial "sidebar.html" . }}
     {{ end }}
 
-    <main class="content">
+    <main class="page-main content">
       {{ block "main" . }}{{ end }}
     </main>
 
