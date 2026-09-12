@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body class="page">
+
+  {{ partial "header.html" . }}
+
+  <div class="layout">
+
+    {{/* Optional sidebar — only loads if sidebar.html exists */}}
+    {{ if templates.Exists "partials/sidebar.html" }}
+      {{ partial "sidebar.html" . }}
+    {{ end }}
+
+    <main class="content">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+  </div>
+
+  {{ partial "footer.html" . }}
+
+</body>
+</html>
