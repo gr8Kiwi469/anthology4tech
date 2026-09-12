@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="section-hero">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.description }}
+    <p class="section-desc">{{ . }}</p>
+  {{ end }}
+</div>
+
+<div class="section-articles">
+  {{ range .Pages }}
+    <div class="article-card">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ with .Params.summary }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+
+{{ end }}

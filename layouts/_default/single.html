@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<article class="a4t-article">
+
+  <header class="article-header">
+    <h1>{{ .Title }}</h1>
+
+    <div class="article-meta">
+      {{ if .Params.showDate }}<span>{{ .Date.Format "Jan 2, 2006" }}</span>{{ end }}
+      {{ if .Params.showReadingTime }}<span> • {{ .ReadingTime }} min read</span>{{ end }}
+    </div>
+
+    {{ with .Params.summary }}
+      <p class="article-summary">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+
+</article>
+
+{{ end }}

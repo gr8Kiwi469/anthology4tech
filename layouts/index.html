@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<div class="hero">
+  <h1>Anthology4Tech</h1>
+  <p class="tagline">Technical insights. Clean architecture. Modern workflows.</p>
+</div>
+
+{{ partial "promo/latest.html" . }}
+
+<div class="sections">
+  {{ range .Site.Sections }}
+    <div class="section-card">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Params.description }}</p>
+    </div>
+  {{ end }}
+</div>
+
+{{ end }}

@@ -1,0 +1,38 @@
+<div class="toc-mobile">
+  <p class="toc-instructions">Tap ▶ to view the article summary.</p>
+
+  {{ range .Site.RegularPages }}
+    <div class="toc-item">
+      <button class="toc-toggle">▶</button>
+      <a class="toc-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.summary }}
+        <div class="toc-summary" style="display:none;">{{ . }}</div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".toc-item").forEach(function(item) {
+    const btn = item.querySelector(".toc-toggle");
+    const summary = item.querySelector(".toc-summary");
+    if (!summary) return;
+
+    btn.addEventListener("click", function() {
+      const visible = summary.style.display !== "none";
+      summary.style.display = visible ? "none" : "block";
+      btn.textContent = visible ? "▶" : "▼";
+    });
+  });
+});
+</script>
+
+<style>
+.toc-mobile { padding: 1rem; }
+.toc-instructions { font-size: 0.9rem; margin-bottom: 1rem; opacity: 0.8; }
+.toc-item { display: flex; flex-direction: column; margin-bottom: 0.75rem; }
+.toc-toggle { align-self: flex-start; background: none; border: none; font-size: 1.2rem; cursor: pointer; margin-right: 0.5rem; }
+.toc-title { font-size: 1rem; margin-left: 0.1rem; }
+.toc-summary { margin-top: 0.4rem; font-size: 0.9rem; opacity: 0.85; }
+</style>

@@ -1,0 +1,8 @@
+{{ $home := resources.Get "css/home.css" | minify }}
+<link rel="stylesheet" href="{{ $home.RelPermalink }}">
+
+{{ $tocCss := resources.Get "css/toc-mobile.css" | minify }}
+<link rel="stylesheet" href="{{ $tocCss.RelPermalink }}">
+
+{{ $tocJs := resources.Get "js/toc-mobile.js" | minify }}
+<script defer src="{{ $tocJs.RelPermalink }}"></script>

@@ -1,3 +1,4 @@
+# hugo.toml
 baseURL = 'https://anthology4tech.com/'
 locale = 'en-us'
 title = 'Anthology4Tech'
@@ -9,7 +10,6 @@ unsafe = true
 ###mainSections = ["posts"]
 ###mainSections = ["posts", "it", "environment", "os", "ai", "devops", "cloud", "security", "iac", "containers", "tools-apps", "tutorials"]
 mainSections = ["posts", "it"]
-
 
 [params]
   toc = true

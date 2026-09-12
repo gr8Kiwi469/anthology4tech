@@ -1,0 +1,24 @@
+<div class="promo-latest">
+  <h2 class="promo-heading">Latest Arrivals</h2>
+
+  {{ $toc := readFile "latest_toc.md" }}
+  <div class="promo-toc">
+    {{ $toc | markdownify }}
+  </div>
+</div>
+
+<style>
+.promo-latest {
+  padding: 2rem 1rem;
+  border-top: 1px solid #e5e5e5;
+  margin-top: 2rem;
+}
+.promo-heading {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+.promo-toc {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+</style>

@@ -1,0 +1,16 @@
+.section-hero {
+  padding: 2rem 1rem;
+}
+.section-desc {
+  opacity: 0.8;
+}
+.section-articles {
+  display: grid;
+  gap: 1.5rem;
+  padding: 1rem;
+}
+.article-card {
+  padding: 1rem;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+}

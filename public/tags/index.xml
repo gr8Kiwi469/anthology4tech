@@ -290,26 +290,6 @@
     </item>
     
     <item>
-      <title>Agents</title>
-      <link>http://localhost:1313/tags/agents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/agents/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ai-Do</title>
-      <link>http://localhost:1313/tags/ai-do/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ai-do/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Arm-Templates</title>
       <link>http://localhost:1313/tags/arm-templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -435,16 +415,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/mac/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine-Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
       <description></description>
       
     </item>

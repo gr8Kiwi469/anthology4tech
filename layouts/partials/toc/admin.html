@@ -1,0 +1,15 @@
+<div class="toc-admin">
+  {{ range .Site.RegularPages }}
+    <div class="toc-item">
+      <h3 class="toc-title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h3>
+      {{ with .Params.summary }}
+        <p class="toc-summary">{{ . }}</p>
+      {{ end }}
+      <p class="toc-meta">
+        <small>Section: {{ .Section }} • Path: {{ .RelPermalink }}</small>
+      </p>
+    </div>
+  {{ end }}
+</div>
