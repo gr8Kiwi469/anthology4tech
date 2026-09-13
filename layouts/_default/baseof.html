@@ -19,6 +19,7 @@
         {{ i18n "nav.skip_to_main" }}
       </a>
     </div>
+
     <header>
       {{ $header := print "header/" site.Params.header.layout ".html" }}
       {{ if templates.Exists ( printf "partials/%s" $header ) }}
@@ -27,6 +28,7 @@
         {{ partial "header/basic.html" . }}
       {{ end }}
     </header>
+
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
         {{ block "main" . }}{{ end }}
@@ -34,11 +36,14 @@
           {{- partial "scroll-to-top.html" . -}}
         {{ end }}
       </main>
+
       {{- partial "footer.html" . -}}
+
       {{ if site.Params.enableSearch | default false }}
         {{- partial "search.html" . -}}
       {{ end }}
     </div>
+
     {{ if and (site.Params.backgroundCanvas | default false) (not (.Store.Get "suppressBackgroundCanvas")) }}
       {{ $default := site.Store.Get "defaultBackgroundImage" }}
       {{ $canvasURL := $default.url }}
