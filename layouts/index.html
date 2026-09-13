@@ -8,12 +8,21 @@
 {{ partial "promo/latest.html" . }}
 
 <div class="sections">
-  {{ range .Site.Sections }}
-    <div class="section-card">
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <p>{{ .Params.description }}</p>
-    </div>
+  {{ range site.Params.mainSections }}
+    {{ $section := site.GetPage (printf "/%s" .) }}
+    {{ if $section }}
+      <div class="section-card">
+        <h2><a href="{{ $section.RelPermalink }}">{{ $section.Title }}</a></h2>
+        <p>{{ $section.Params.description }}</p>
+      </div>
+    {{ end }}
   {{ end }}
-</div>
 
-{{ end }}
+#  {{ range .Site.Sections }}
+#    <div class="section-card">
+#      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+#      <p>{{ .Params.description }}</p>
+#    </div>
+#  {{ end }}
+
+</div>
