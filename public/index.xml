@@ -2,290 +2,310 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthology4Tech</title>
-    <link>http://localhost:1313/</link>
+    <link>https://anthology4tech.com/</link>
     <description>Recent content on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Dec 2025 14:37:27 -0700</lastBuildDate><atom:link href="https://anthology4tech.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>AI in Engineering Workflows</title>
-      <link>http://localhost:1313/posts/ai-in-engineering/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Deep Learning With Python</title>
+      <link>https://anthology4tech.com/ai/deep-learning/deep-learning-with-python/</link>
+      <pubDate>Sun, 21 Dec 2025 14:37:27 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/ai-in-engineering/</guid>
-      <description>How AI is reshaping engineering workflows and developer productivity.</description>
+      <guid>https://anthology4tech.com/ai/deep-learning/deep-learning-with-python/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/betwixt-ai_dl-activity-7403089595459919872-&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/betwixt-ai_dl-activity-7403089595459919872-&lt;/a&gt;</description>
       
     </item>
     
     <item>
-      <title>DevOps Foundations</title>
-      <link>http://localhost:1313/posts/devops-foundations/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Microsoft CoPilot Studio - Step-by-Step</title>
+      <link>https://anthology4tech.com/ai/copilot/microsoft-copilot-studio---step-by-step/</link>
+      <pubDate>Sun, 21 Dec 2025 14:35:33 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/devops-foundations/</guid>
-      <description>A practical overview of DevOps principles and why they matter.</description>
-      
-    </item>
-    
-    <item>
-      <title>Engineering Leadership Essentials</title>
-      <link>http://localhost:1313/posts/engineering-leadership/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/engineering-leadership/</guid>
-      <description>Key principles for leading engineering teams effectively.</description>
+      <guid>https://anthology4tech.com/ai/copilot/microsoft-copilot-studio---step-by-step/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/lisa-crosbie_i-am-very-pleased-to-announce-&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/lisa-crosbie_i-am-very-pleased-to-announce-&lt;/a&gt;</description>
       
     </item>
     
     <item>
-      <title>Growth for Engineers</title>
-      <link>http://localhost:1313/posts/growth-for-engineers/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <title>AI Prompting is Broken</title>
+      <link>https://anthology4tech.com/ai/prompting/ai-prompting-is-broken/</link>
+      <pubDate>Sun, 21 Dec 2025 14:31:41 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/growth-for-engineers/</guid>
-      <description>How engineers can build long-term career resilience.</description>
-      
-    </item>
-    
-    <item>
-      <title>Platform Architecture Basics</title>
-      <link>http://localhost:1313/posts/platform-basics/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/platform-basics/</guid>
-      <description>A simple introduction to cloud-native architecture patterns.</description>
+      <guid>https://anthology4tech.com/ai/prompting/ai-prompting-is-broken/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/not-the-f1-driver-liam-lawson_ai-prompting-&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/not-the-f1-driver-liam-lawson_ai-prompting-&lt;/a&gt;</description>
       
     </item>
     
     <item>
-      <title>Security First</title>
-      <link>http://localhost:1313/posts/security-first/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <title>How to Create an M365 CoPilot Agent</title>
+      <link>https://anthology4tech.com/ai/copilot/how-to-create-an-m365-copilot-agent/</link>
+      <pubDate>Sun, 21 Dec 2025 14:31:19 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/security-first/</guid>
-      <description>Why security must be built into every stage of development.</description>
-      
-    </item>
-    
-    <item>
-      <title>Tools That Matter</title>
-      <link>http://localhost:1313/posts/tools-that-matter/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/tools-that-matter/</guid>
-      <description>A look at essential tools that improve engineering productivity.</description>
+      <guid>https://anthology4tech.com/ai/copilot/how-to-create-an-m365-copilot-agent/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/timothywarner_m365copilot-copilotstudio-aia&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/timothywarner_m365copilot-copilotstudio-aia&lt;/a&gt;</description>
       
     </item>
     
     <item>
-      <title>Understanding GitOps</title>
-      <link>http://localhost:1313/posts/understanding-gitops/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <title>25 Cloud Computing Terms to Know ex Day 1</title>
+      <link>https://anthology4tech.com/general/general/25-cloud-computing-terms-to-know-ex-day-1/</link>
+      <pubDate>Sun, 21 Dec 2025 14:27:24 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/understanding-gitops/</guid>
-      <description>A practical introduction to GitOps workflows.</description>
-      
-    </item>
-    
-    <item>
-      <title>What ALM Really Means</title>
-      <link>http://localhost:1313/posts/alm-overview/</link>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/alm-overview/</guid>
-      <description>Understanding application lifecycle management from planning to delivery.</description>
+      <guid>https://anthology4tech.com/general/general/25-cloud-computing-terms-to-know-ex-day-1/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/jesus-romero-pm_you-dont-need-to-be-a-techn&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/jesus-romero-pm_you-dont-need-to-be-a-techn&lt;/a&gt;</description>
       
     </item>
     
     <item>
-      <title>Hello Tech</title>
-      <link>http://localhost:1313/posts/hello-tech/</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <title>DevOps vs GitOps CI-CD Pipelines</title>
+      <link>https://anthology4tech.com/devops/pipelines/devops-vs-gitops-ci-cd-pipelines/</link>
+      <pubDate>Sun, 21 Dec 2025 14:27:22 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-tech/</guid>
-      <description>First post for Anthology4Tech.</description>
+      <guid>https://anthology4tech.com/devops/pipelines/devops-vs-gitops-ci-cd-pipelines/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/vikesh-thapliyal-0746272a4_kubernetes-gitop&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/vikesh-thapliyal-0746272a4_kubernetes-gitop&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Important Linux Commands</title>
+      <link>https://anthology4tech.com/os/linux/important-linux-commands/</link>
+      <pubDate>Sun, 21 Dec 2025 14:23:05 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/os/linux/important-linux-commands/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/aamir-tamuri-491244349_if-you-work-in-cloud&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/aamir-tamuri-491244349_if-you-work-in-cloud&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Reactive vs Responsive Mindset</title>
+      <link>https://anthology4tech.com/leadership/mindset/reactive-vs-responsive-mindset/</link>
+      <pubDate>Sun, 21 Dec 2025 14:22:40 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/leadership/mindset/reactive-vs-responsive-mindset/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/george-stern_do-you-have-a-reactive-mindset&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/george-stern_do-you-have-a-reactive-mindset&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>20&#43; FREE Microsoft CoPilot Studio Labs</title>
+      <link>https://anthology4tech.com/ai/copilot/20-free-microsoft-copilot-studio-labs/</link>
+      <pubDate>Sun, 21 Dec 2025 14:18:53 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/ai/copilot/20-free-microsoft-copilot-studio-labs/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/jackrowbotham_ai-microsoft-copilotstudio-ac&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/jackrowbotham_ai-microsoft-copilotstudio-ac&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Pick the Right AWS Compute Service</title>
+      <link>https://anthology4tech.com/cloud/aws/pick-the-right-aws-compute-service/</link>
+      <pubDate>Sun, 21 Dec 2025 14:18:51 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/cloud/aws/pick-the-right-aws-compute-service/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/naresh-kumari_most-aws-cloud-aspirants-hear&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/naresh-kumari_most-aws-cloud-aspirants-hear&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Top 7 Cloud-Native Architecture Patterns</title>
+      <link>https://anthology4tech.com/cloud/architecture/top-7-cloud-native-architecture-patterns/</link>
+      <pubDate>Sat, 20 Dec 2025 19:14:59 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/cloud/architecture/top-7-cloud-native-architecture-patterns/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/vsadhwani_if-youre-working-in-cloud-here-ar&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/vsadhwani_if-youre-working-in-cloud-here-ar&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>MicroServices Application on Azure</title>
+      <link>https://anthology4tech.com/cloud/azure/microservices-application-on-azure/</link>
+      <pubDate>Mon, 15 Dec 2025 13:04:03 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/cloud/azure/microservices-application-on-azure/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/rajnath-maurya9_azure-devops-aks-activity-7&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/rajnath-maurya9_azure-devops-aks-activity-7&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Practical Infra Strategy</title>
+      <link>https://anthology4tech.com/devops/infra-strategy/practical-infra-strategy/</link>
+      <pubDate>Mon, 15 Dec 2025 12:53:42 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/devops/infra-strategy/practical-infra-strategy/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/sanjeev-kumar-gautam-57847057_devops-terraf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/sanjeev-kumar-gautam-57847057_devops-terraf&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kanban Cheat Sheet</title>
+      <link>https://anthology4tech.com/leadership/kanban/kanban-cheat-sheet/</link>
+      <pubDate>Mon, 15 Dec 2025 12:28:58 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/leadership/kanban/kanban-cheat-sheet/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/shraddha-sahu-5b99b8142_have-you-unlocked-t&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/shraddha-sahu-5b99b8142_have-you-unlocked-t&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Build Tomorrow&#39;s AI Skills, Today</title>
+      <link>https://anthology4tech.com/ai/prompting/build-tomorrow-s-ai-skills-today/</link>
+      <pubDate>Wed, 10 Dec 2025 15:40:05 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/ai/prompting/build-tomorrow-s-ai-skills-today/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/how-to-prompt_google-just-launched-a-free-a&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/how-to-prompt_google-just-launched-a-free-a&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Lead When Every Generation Wants Different Things</title>
+      <link>https://anthology4tech.com/leadership/generational-leadership/how-to-lead-when-every-generation-wants-different-things/</link>
+      <pubDate>Wed, 10 Dec 2025 15:12:59 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/leadership/generational-leadership/how-to-lead-when-every-generation-wants-different-things/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/amy-l-g_ive-led-teams-with-40-year-age-gaps&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/amy-l-g_ive-led-teams-with-40-year-age-gaps&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>9 Free AI Courses ex Google</title>
+      <link>https://anthology4tech.com/ai/google-ai/9-free-ai-courses-ex-google/</link>
+      <pubDate>Tue, 09 Dec 2025 08:46:30 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/ai/google-ai/9-free-ai-courses-ex-google/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/lukasstangl_lifeatgoogle-activity-739873997&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/lukasstangl_lifeatgoogle-activity-739873997&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>DevOps Roadmap</title>
+      <link>https://anthology4tech.com/general/general/devops-roadmap/</link>
+      <pubDate>Tue, 09 Dec 2025 08:45:05 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/general/general/devops-roadmap/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/amanisai-pokala-503b89351_devops-roadmap-cl&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/amanisai-pokala-503b89351_devops-roadmap-cl&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes vs Docker</title>
+      <link>https://anthology4tech.com/devops/kubernetes/kubernetes-vs-docker/</link>
+      <pubDate>Tue, 09 Dec 2025 08:42:12 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/devops/kubernetes/kubernetes-vs-docker/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/ahmed-fakhfakh_kubernetes-docker-devops-act&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/ahmed-fakhfakh_kubernetes-docker-devops-act&lt;/a&gt;</description>
       
     </item>
     
     <item>
       <title>ALM Mag – Issue 1 (2012)</title>
-      <link>http://localhost:1313/alm-mag/issue-1/</link>
+      <link>https://anthology4tech.com/alm-mag/issue-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/alm-mag/issue-1/</guid>
-      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      <guid>https://anthology4tech.com/alm-mag/issue-1/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ALM Mag – Issue 2 (2012)</title>
-      <link>http://localhost:1313/alm-mag/issue-2/</link>
+      <link>https://anthology4tech.com/alm-mag/issue-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/alm-mag/issue-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Download or Open the full issue:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      <guid>https://anthology4tech.com/alm-mag/issue-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Download or Open the full issue:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-1.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ALM Mag – Issue 3 (2012)</title>
-      <link>http://localhost:1313/alm-mag/issue-3/</link>
+      <link>https://anthology4tech.com/alm-mag/issue-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/alm-mag/issue-3/</guid>
-      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-3.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-3.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      <guid>https://anthology4tech.com/alm-mag/issue-3/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-3.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-3.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ALM Mag – Issue 4 (2012)</title>
-      <link>http://localhost:1313/alm-mag/issue-4/</link>
+      <link>https://anthology4tech.com/alm-mag/issue-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/alm-mag/issue-4/</guid>
-      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-4.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-4.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      <guid>https://anthology4tech.com/alm-mag/issue-4/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-4.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-4.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ALM Mag – Issue 5 (2012)</title>
-      <link>http://localhost:1313/alm-mag/issue-5/</link>
+      <link>https://anthology4tech.com/alm-mag/issue-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/alm-mag/issue-5/</guid>
-      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-5.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;http://localhost:1313/alm-mag/ALM-Mag-Issue-5.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
+      <guid>https://anthology4tech.com/alm-mag/issue-5/</guid>
+      <description>&lt;p&gt;Download or Open the full issue:&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-5.pdf&#34; &gt;Download PDF&lt;/a&gt;&lt;br&gt;&#xA;👉 &lt;a href=&#34;https://anthology4tech.com/alm-mag/ALM-Mag-Issue-5.pdf&#34; &gt;Open the PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also right-click and save the file locally.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/it/architecture-of-modern-workflows-full/</link>
+      <link>https://anthology4tech.com/pmindex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/it/architecture-of-modern-workflows-full/</guid>
+      <guid>https://anthology4tech.com/pmindex/</guid>
+      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;&#xA;&lt;section class=&#34;hero hero-a4tech&#34;&gt;&#xD;&#xA;  &lt;h1&gt;Structured Insight for Modern Work&lt;/h1&gt;&#xD;&#xA;  &lt;p&gt;Sample articles, premium content, and subscriber-only releases.&lt;/p&gt;&#xD;&#xA;  &lt;a class=&#34;cta&#34; href=&#34;https://anthology4tech.com/subscribe&#34;&gt;Unlock Full Access&lt;/a&gt;&#xD;&#xA;  &lt;div class=&#34;hero-node-overlay&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://anthology4tech.com/img/a4tech-hero-nodes.svg&#34; alt=&#34;Idea network graphic&#34;&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;section class=&#34;samples&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;section-header-a4tech&#34;&gt;Sample Articles&lt;/h2&gt;&#xD;&#xA;  &lt;div class=&#34;sample-list&#34;&gt;&#xD;&#xA;    {{ range first 3 (where .Site.RegularPages &#34;Section&#34; &#34;samples&#34;) }}&#xD;&#xA;      &lt;article&gt;&#xD;&#xA;        &lt;h3&gt;&lt;a href=&#34;{{ .RelPermalink }}&#34;&gt;{{ .Title }}&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;        &lt;p&gt;{{ .Summary }}&lt;/p&gt;&#xD;&#xA;      &lt;/article&gt;&#xD;&#xA;    {{ end }}&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;section class=&#34;subscribe&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;section-header-a4tech&#34;&gt;Become a Subscriber&lt;/h2&gt;&#xD;&#xA;  &lt;p&gt;Gain access to full articles, archives, diagrams, frameworks, and upcoming drops.&lt;/p&gt;&#xD;&#xA;  &lt;a class=&#34;cta&#34; href=&#34;https://anthology4tech.com/subscribe&#34;&gt;Subscribe via PayPal&lt;/a&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;section class=&#34;drops&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;section-header-a4tech&#34;&gt;Drop Calendar&lt;/h2&gt;&#xD;&#xA;  {{ range (where .Site.RegularPages &#34;Section&#34; &#34;drops&#34;) }}&#xD;&#xA;    &lt;article&gt;&#xD;&#xA;      &lt;h3&gt;{{ .Title }}&lt;/h3&gt;&#xD;&#xA;      &lt;p&gt;{{ .Params.releaseDate }}&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Anthology4Tech</title>
+      <link>https://anthology4tech.com/promo/systems-thinking-preview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anthology4tech.com/promo/systems-thinking-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/it/the-systems-map-full/</link>
+      <link>https://anthology4tech.com/promo/workflows-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/it/the-systems-map-full/</guid>
+      <guid>https://anthology4tech.com/promo/workflows-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/it/the-value-layer-full/</link>
+      <link>https://anthology4tech.com/samples/systems-thinking-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/it/the-value-layer-full/</guid>
+      <guid>https://anthology4tech.com/samples/systems-thinking-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/pmindex/</link>
+      <link>https://anthology4tech.com/samples/the-systems-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pmindex/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;&#xA;&lt;section class=&#34;hero hero-a4tech&#34;&gt;&#xD;&#xA;  &lt;h1&gt;Structured Insight for Modern Work&lt;/h1&gt;&#xD;&#xA;  &lt;p&gt;Sample articles, premium content, and subscriber-only releases.&lt;/p&gt;&#xD;&#xA;  &lt;a class=&#34;cta&#34; href=&#34;http://localhost:1313/subscribe&#34;&gt;Unlock Full Access&lt;/a&gt;&#xD;&#xA;  &lt;div class=&#34;hero-node-overlay&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/img/a4tech-hero-nodes.svg&#34; alt=&#34;Idea network graphic&#34;&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;section class=&#34;samples&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;section-header-a4tech&#34;&gt;Sample Articles&lt;/h2&gt;&#xD;&#xA;  &lt;div class=&#34;sample-list&#34;&gt;&#xD;&#xA;    {{ range first 3 (where .Site.RegularPages &#34;Section&#34; &#34;samples&#34;) }}&#xD;&#xA;      &lt;article&gt;&#xD;&#xA;        &lt;h3&gt;&lt;a href=&#34;{{ .RelPermalink }}&#34;&gt;{{ .Title }}&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;        &lt;p&gt;{{ .Summary }}&lt;/p&gt;&#xD;&#xA;      &lt;/article&gt;&#xD;&#xA;    {{ end }}&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;section class=&#34;subscribe&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;section-header-a4tech&#34;&gt;Become a Subscriber&lt;/h2&gt;&#xD;&#xA;  &lt;p&gt;Gain access to full articles, archives, diagrams, frameworks, and upcoming drops.&lt;/p&gt;&#xD;&#xA;  &lt;a class=&#34;cta&#34; href=&#34;http://localhost:1313/subscribe&#34;&gt;Subscribe via PayPal&lt;/a&gt;&#xD;&#xA;&lt;/section&gt;&#xD;&#xA;&lt;section class=&#34;drops&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;section-header-a4tech&#34;&gt;Drop Calendar&lt;/h2&gt;&#xD;&#xA;  {{ range (where .Site.RegularPages &#34;Section&#34; &#34;drops&#34;) }}&#xD;&#xA;    &lt;article&gt;&#xD;&#xA;      &lt;h3&gt;{{ .Title }}&lt;/h3&gt;&#xD;&#xA;      &lt;p&gt;{{ .Params.releaseDate }}&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/promo/systems-thinking-preview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/promo/systems-thinking-preview/</guid>
+      <guid>https://anthology4tech.com/samples/the-systems-map/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/promo/workflows-preview/</link>
+      <link>https://anthology4tech.com/samples/the-value-layer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/promo/workflows-preview/</guid>
+      <guid>https://anthology4tech.com/samples/the-value-layer/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/systems-thinking-preview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/systems-thinking-preview/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/the-systems-map/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/the-systems-map/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Anthology4Tech</title>
-      <link>http://localhost:1313/samples/the-value-layer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/samples/the-value-layer/</guid>
-      <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>DevOps Test Page</title>
-      <link>http://localhost:1313/it/devops/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/it/devops/test/</guid>
-      <description>&lt;p&gt;This is a test page.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Environment Test Page</title>
-      <link>http://localhost:1313/it/environment/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/it/environment/test/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hello DevOps</title>
-      <link>http://localhost:1313/it/devops/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/it/devops/hello/</guid>
-      <description>&lt;p&gt;This is a real content page.&lt;br&gt;&#xA;It has actual body text.&lt;br&gt;&#xA;Blowfish will now treat this section as non-empty.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Hello-2 DevOps</title>
-      <link>http://localhost:1313/it/devops/hello-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/it/devops/hello-2/</guid>
-      <description>&lt;p&gt;This is a real content page.&lt;br&gt;&#xA;It has actual body text.&lt;br&gt;&#xA;Blowfish will now treat this section as non-empty.&lt;/p&gt;</description>
       
     </item>
     

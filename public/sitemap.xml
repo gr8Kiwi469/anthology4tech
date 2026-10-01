@@ -3,192 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/alm-mag/</loc>
+    <loc>https://anthology4tech.com/alm-mag/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/improvement/</loc>
+    <loc>https://anthology4tech.com/ai/</loc>
+    <lastmod>2025-12-21T14:37:27-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ai-in-engineering/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/</loc>
+    <lastmod>2025-12-21T14:37:27-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/ai/deep-learning/deep-learning-with-python/</loc>
+    <lastmod>2025-12-21T14:37:27-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/devops-foundations/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/ai/copilot/microsoft-copilot-studio---step-by-step/</loc>
+    <lastmod>2025-12-21T14:35:33-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/engineering-leadership/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/ai/prompting/ai-prompting-is-broken/</loc>
+    <lastmod>2025-12-21T14:31:41-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/growth-for-engineers/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/ai/copilot/how-to-create-an-m365-copilot-agent/</loc>
+    <lastmod>2025-12-21T14:31:19-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/platform-basics/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/general/general/25-cloud-computing-terms-to-know-ex-day-1/</loc>
+    <lastmod>2025-12-21T14:27:24-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/general/</loc>
+    <lastmod>2025-12-21T14:27:24-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/security-first/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/devops/</loc>
+    <lastmod>2025-12-21T14:27:22-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/tools-that-matter/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/devops/pipelines/devops-vs-gitops-ci-cd-pipelines/</loc>
+    <lastmod>2025-12-21T14:27:22-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/understanding-gitops/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/os/linux/important-linux-commands/</loc>
+    <lastmod>2025-12-21T14:23:05-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/alm-overview/</loc>
-    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/os/</loc>
+    <lastmod>2025-12-21T14:23:05-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hello-tech/</loc>
-    <lastmod>2026-07-23T00:00:00+00:00</lastmod>
+    <loc>https://anthology4tech.com/leadership/</loc>
+    <lastmod>2025-12-21T14:22:40-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://anthology4tech.com/leadership/mindset/reactive-vs-responsive-mindset/</loc>
+    <lastmod>2025-12-21T14:22:40-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/it/ai/</loc>
+    <loc>https://anthology4tech.com/ai/copilot/20-free-microsoft-copilot-studio-labs/</loc>
+    <lastmod>2025-12-21T14:18:53-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/alm-mag/issue-1/</loc>
+    <loc>https://anthology4tech.com/cloud/</loc>
+    <lastmod>2025-12-21T14:18:51-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/alm-mag/issue-2/</loc>
+    <loc>https://anthology4tech.com/cloud/aws/pick-the-right-aws-compute-service/</loc>
+    <lastmod>2025-12-21T14:18:51-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/alm-mag/issue-3/</loc>
+    <loc>https://anthology4tech.com/cloud/architecture/top-7-cloud-native-architecture-patterns/</loc>
+    <lastmod>2025-12-20T19:14:59-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/alm-mag/issue-4/</loc>
+    <loc>https://anthology4tech.com/cloud/azure/microservices-application-on-azure/</loc>
+    <lastmod>2025-12-15T13:04:03-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/alm-mag/issue-5/</loc>
+    <loc>https://anthology4tech.com/devops/infra-strategy/practical-infra-strategy/</loc>
+    <lastmod>2025-12-15T12:53:42-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/it/architecture-of-modern-workflows-full/</loc>
+    <loc>https://anthology4tech.com/leadership/kanban/kanban-cheat-sheet/</loc>
+    <lastmod>2025-12-15T12:28:58-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/it/the-systems-map-full/</loc>
+    <loc>https://anthology4tech.com/ai/prompting/build-tomorrow-s-ai-skills-today/</loc>
+    <lastmod>2025-12-10T15:40:05-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/it/the-value-layer-full/</loc>
+    <loc>https://anthology4tech.com/leadership/generational-leadership/how-to-lead-when-every-generation-wants-different-things/</loc>
+    <lastmod>2025-12-10T15:12:59-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/pmindex/</loc>
+    <loc>https://anthology4tech.com/ai/google-ai/9-free-ai-courses-ex-google/</loc>
+    <lastmod>2025-12-09T08:46:30-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/promo/systems-thinking-preview/</loc>
+    <loc>https://anthology4tech.com/general/general/devops-roadmap/</loc>
+    <lastmod>2025-12-09T08:45:05-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/promo/workflows-preview/</loc>
+    <loc>https://anthology4tech.com/devops/kubernetes/kubernetes-vs-docker/</loc>
+    <lastmod>2025-12-09T08:42:12-07:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/systems-thinking-preview/</loc>
+    <loc>https://anthology4tech.com/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/the-systems-map/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/samples/the-value-layer/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/attribution/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-3/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/cloud/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-4/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://anthology4tech.com/alm-mag/issue-5/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/containers/</loc>
+    <loc>https://anthology4tech.com/pmindex/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/devops/</loc>
+    <loc>https://anthology4tech.com/promo/systems-thinking-preview/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/devops/test/</loc>
+    <loc>https://anthology4tech.com/promo/workflows-preview/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/disclaimer/</loc>
+    <loc>https://anthology4tech.com/samples/systems-thinking-preview/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/environment/</loc>
+    <loc>https://anthology4tech.com/samples/the-systems-map/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/environment/test/</loc>
+    <loc>https://anthology4tech.com/samples/the-value-layer/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/zzessays/</loc>
+    <loc>https://anthology4tech.com/attribution/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/devops/hello/</loc>
+    <loc>https://anthology4tech.com/contact/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/devops/hello-2/</loc>
+    <loc>https://anthology4tech.com/disclaimer/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/how-it-works/</loc>
+    <loc>https://anthology4tech.com/how-it-works/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/iac/</loc>
+    <loc>https://anthology4tech.com/promo/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/promo/</loc>
+    <loc>https://anthology4tech.com/privacy/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/it/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/improvement/linkedin/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/improvement/managerial/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zznotes/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/it/os/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/improvement/personal/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/privacy/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zzprojects/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/improvement/resume/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/samples/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/it/security/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zztools/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/it/tools-apps/</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/it/tutorials/</loc>
+    <loc>https://anthology4tech.com/samples/</loc>
   </url>
 </urlset>

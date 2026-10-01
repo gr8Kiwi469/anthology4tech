@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on Anthology4Tech</title>
+    <link>https://anthology4tech.com/devops/</link>
+    <description>Recent content in Devops on Anthology4Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 21 Dec 2025 14:27:22 -0700</lastBuildDate><atom:link href="https://anthology4tech.com/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DevOps vs GitOps CI-CD Pipelines</title>
+      <link>https://anthology4tech.com/devops/pipelines/devops-vs-gitops-ci-cd-pipelines/</link>
+      <pubDate>Sun, 21 Dec 2025 14:27:22 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/devops/pipelines/devops-vs-gitops-ci-cd-pipelines/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/vikesh-thapliyal-0746272a4_kubernetes-gitop&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/vikesh-thapliyal-0746272a4_kubernetes-gitop&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Practical Infra Strategy</title>
+      <link>https://anthology4tech.com/devops/infra-strategy/practical-infra-strategy/</link>
+      <pubDate>Mon, 15 Dec 2025 12:53:42 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/devops/infra-strategy/practical-infra-strategy/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/sanjeev-kumar-gautam-57847057_devops-terraf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/sanjeev-kumar-gautam-57847057_devops-terraf&lt;/a&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes vs Docker</title>
+      <link>https://anthology4tech.com/devops/kubernetes/kubernetes-vs-docker/</link>
+      <pubDate>Tue, 09 Dec 2025 08:42:12 -0700</pubDate>
+      
+      <guid>https://anthology4tech.com/devops/kubernetes/kubernetes-vs-docker/</guid>
+      <description>&lt;a href=&#34;https://www.linkedin.com/posts/ahmed-fakhfakh_kubernetes-docker-devops-act&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.linkedin.com/posts/ahmed-fakhfakh_kubernetes-docker-devops-act&lt;/a&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

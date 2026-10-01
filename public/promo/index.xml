@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introducing Anthology4Tech on Anthology4Tech</title>
-    <link>http://localhost:1313/promo/</link>
+    <link>https://anthology4tech.com/promo/</link>
     <description>Recent content in Introducing Anthology4Tech on Anthology4Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="http://localhost:1313/promo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anthology4tech.com/promo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/promo/systems-thinking-preview/</link>
+      <link>https://anthology4tech.com/promo/systems-thinking-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/promo/systems-thinking-preview/</guid>
+      <guid>https://anthology4tech.com/promo/systems-thinking-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Anthology4Tech</title>
-      <link>http://localhost:1313/promo/workflows-preview/</link>
+      <link>https://anthology4tech.com/promo/workflows-preview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/promo/workflows-preview/</guid>
+      <guid>https://anthology4tech.com/promo/workflows-preview/</guid>
       <description>&lt;p&gt;Welcome to Anthology4Tech — a curated collection of technical insights.&lt;/p&gt;</description>
       
     </item>
